@@ -65,8 +65,10 @@ El procedimiento a seguir para cargar, modificar y entregar una tarea el siguien
 
 1. [Agentes inteligentes](https://github.com/IA-UNISON/tarea01-Agentes-Inteligentes). *Fecha de entrega: 3 de septiebre de 2018*.
 
+2. [Búsquedas locales](https://github.com/IA-UNISON/tarea02-Temple-Simulado).  *Fecha de entrega: 17 de septiembre de 2018*.
+
+
 <!---
-2. [Búsquedas locales](https://github.com/IA-UNISON/tarea02-Temple-Simulado).  *Fecha de entrega: 18 de febrero de 2018*.
 3. [Satisfacción de restricciones](https://github.com/IA-UNISON/tarea03-SatisfaccionRestricciones).  *Fecha de entrega: 4 de marzo de 2018*.
 4. [Búsquedas informadas](https://github.com/IA-UNISON/tarea05-Busquedas-Informadas). *Fecha de entrega: 18 de marzo de 2018*.
 5. [Búsquedas con adversario](https://github.com/IA-UNISON/tarea06-Busqueda-Adversario).  *Fecha de entrega 16 de abril de 2018*.

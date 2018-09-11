@@ -74,3 +74,20 @@ y posteriormente se lo intercambiaron con el otro equipo. Los crucigramas desarr
 
 
 Los dos equipos hicieron muy buen trabajo (todo se realizó en menos de una hora que dura el curso los viernes). ¡Felicidades!
+
+
+### Actividad 2: Inventando un algoritmo metaheurístico
+
+Con el fin de evaluar si se comprendió correctamente la mecánica detrás de los algoritmos metaheurísticos de búsquedas locales,
+se dividió el grupo en dos equipos y cada una va a desarrollar (de manera muy breve) una propuesta de algoritmo metaheurístico,
+no importa si es factible, eficiente o funcional (o si ya existe).
+
+Cada equipo entregará un reporte en $\LaTeX$ lo más concreto posible el cuál deberá contener lo siguiente:
+
+- ¿Cuál es la metaheurística de donde se inspira?
+
+- ¿Porqué podría pensarse que el algoritmo converge asintóticamente a un mínimo global?
+
+- El pseudocódigo en muy grandes rasgos, sin detalles de implementación
+
+A continuación se agregarán los links de ambas propuestas.
