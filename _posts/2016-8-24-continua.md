@@ -76,7 +76,7 @@ y posteriormente se lo intercambiaron con el otro equipo. Los crucigramas desarr
 Los dos equipos hicieron muy buen trabajo (todo se realizó en menos de una hora que dura el curso los viernes). ¡Felicidades!
 
 
-### Actividad 2: Inventando un algoritmo metaheurístico
+### Actividad 3: Inventando un algoritmo metaheurístico
 
 Con el fin de evaluar si se comprendió correctamente la mecánica detrás de los algoritmos metaheurísticos de búsquedas locales,
 se dividió el grupo en dos equipos y cada una va a desarrollar (de manera muy breve) una propuesta de algoritmo metaheurístico,
@@ -91,3 +91,17 @@ Cada equipo entregará un reporte en $\LaTeX$ lo más concreto posible el cuál 
 - El pseudocódigo en muy grandes rasgos, sin detalles de implementación
 
 A continuación se agregarán los links de ambas propuestas.
+
+- [Algoritmo homo-inspirado](/assets/docs/metaheuristica1.pdf) propuesto por Víctor Noriega, Fabián Encinas y Mario Castro
+
+- [Algoritmo de drones](/assets/docs/metaheuristica2.pdf) propuesto por Gilberto Espinoza y Jorge Xavier Paredes
+
+
+| Característica                                                                        | Homo-inspirado | Drones |
+|---------------------------------------------------------------------------------------|----------------|--------|
+| ¿Explica la inspiración a un proceso de optimización?                                 | si             | si     |
+| ¿Explica brevemente porqué piensan que el algoritmo podría tender a un mínimo global? | si             | no     |
+| ¿Presenta un pseudocódigo a grandes rasgos del algoritmo?                             | si             | no     |                                                                                      |
+
+
+Cada actualización de los documentos, implica un cambio en la tabla de evaluación.
