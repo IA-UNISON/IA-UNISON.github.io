@@ -45,7 +45,11 @@ image: assets/images/larga3.jpg
 
 3. [Unas notas (libro) excelentes en computación evolutiva](http://delta.cs.cinvestav.mx/~ccoello/compevol/apuntes.pdf)
 
-4. Un ejemplo de programa sencillo de algoritmo genético en *python*, [El algoritmo genético](codigo/ga/genetico.py) y [la prueba con el problema de las *n-reinas*](codigo/ga/genetico_nreinas.py).
+4. Un ejemplo de programa sencillo de algoritmo genético en *python*,
+   [El algoritmo
+   genético](https://raw.githubusercontent.com/IA-UNISON/material/master/codigo/ga/genetico.py)
+   y [la prueba con el problema de las
+   *n-reinas*](https://raw.githubusercontent.com/IA-UNISON/material/master/codigo/gagenetico_nreinas.py).
 
 5. [El artículo original con el algoritmo AC-3](http://cse.unl.edu/~choueiry/Documents/Mackworth-AIJ77.pdf)
 
