@@ -105,3 +105,41 @@ A continuación se agregarán los links de ambas propuestas.
 
 
 Cada actualización de los documentos, implica un cambio en la tabla de evaluación.
+
+
+### Actividad 4: Planteando un problema de CSP
+
+Para esta actividad hay que plantear (no resolver) un problema de CSP particular: La generación de crucigramas.
+
+Tenemos una lista de palabras horizontales $\{w^h_1, \ldots, w^h_n\}$ y una lista de palabras verticales $\{w^v_1, \ldots, w^v_m\}$,
+las cuales se van a colocar en un espacio cuadriculado con $n_max$ columnas y $m_max$ renglones. Cada palabra está compuesta por una
+cadena de caractéres, $w = (c_1, \ldots, c_{len(w)})$.
+
+Para hacer un crucigrama hay que cumplir con las siguientes restricciones:
+
+1. No se pueden traslapar dos palabras horizontales o verticales, ni pueden estar en columnas adyacentes si se traslapan.
+2. Si se cruzan una palabra vertical con una horizontal, el espacio donde se cruzan debe de compartir la misma letra
+3. Todas las palabras deben de estar conectadas entre si, con al menos un cruce.
+
+Lo que se pide es proponer un modelo de CSP basado en gráficas de restricciones respondiendo los siguientes incisos:
+
+1. ¿Cuál es el espacio de estado $X$?
+2. ¿Cuál es el dominio de cada una de las variables?
+3. ¿Cuales son los vecinos de cada variables?
+4. Expresa en forma general cuales son las restricciones binarias?
+5. ¿Existen restricciones globales? y de ser el caso ¿Cuáles?
+
+Los documentos con los modelos son los siguientes:
+
+1. [Modelo 1](/assets/docs/cruci1.pdf)
+2. [Modelo 2](/assets/docs/cruci2.pdf)
+
+y la evaluación es la siguiente:
+
+| Característica           | Modelo 1 | Modelo 2 |
+|--------------------------|----------|----------|
+| ¿Espaco de estado?       |          |          |
+| ¿Dominios?               |          |          |
+| ¿Vecindades?             |          |          |
+| ¿Restricciones binarias  |          |          |
+| ¿Restricciones globales? |          |          |
