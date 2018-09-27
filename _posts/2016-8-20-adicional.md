@@ -54,3 +54,10 @@ image: assets/images/larga3.jpg
 5. [El artículo original con el algoritmo AC-3](http://cse.unl.edu/~choueiry/Documents/Mackworth-AIJ77.pdf)
 
 6. [El algoritmo AC-3 en Wikipedia (muy claro, sin errores)](https://en.wikipedia.org/wiki/AC-3_algorithm)
+
+
+## Búsquedas informadas
+
+1. [Una presentación general sobre búsquedas informadas](https://raw.githubusercontent.com/IA-UNISON/material/master/presentaciones/busquedas.pdf)
+
+2. [El algoritmo A* de Wikipedia (claro y sin errores)](https://en.wikipedia.org/wiki/A*_search_algorithm)
