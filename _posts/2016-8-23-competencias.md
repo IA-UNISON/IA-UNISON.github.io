@@ -74,19 +74,20 @@ primer tarea):
 ## Listado de tareas a realizar (se irán agregando a lo largo del semestre)
 
 1. [Agentes
-   inteligentes](https://github.com/IA-UNISON/tarea01-Agentes-Inteligentes). *Fecha
+   inteligentes](https://github.com/IA-UNISON/1-Agentes-Inteligentes). *Fecha
    de entrega: 3 de septiebre de 2018*.
 
 2. [Búsquedas
-   locales](https://github.com/IA-UNISON/tarea02-Temple-Simulado).
+   locales](https://github.com/IA-UNISON/2-Temple-Simulado).
    *Fecha de entrega: 17 de septiembre de 2018*.
 
 3. [Satisfacción de
-   restricciones](https://github.com/IA-UNISON/tarea03-SatisfaccionRestricciones).
+   restricciones](https://github.com/IA-UNISON/3-SatisfaccionRestricciones).
    *Fecha de entrega: 24 de septiembre de 2018*.
 
+4. [Búsquedas informadas](https://github.com/IA-UNISON/5-Busquedas-Informadas). *Fecha de entrega: 8 de octubre de 2018*.
+
 <!---
-4. [Búsquedas informadas](https://github.com/IA-UNISON/tarea05-Busquedas-Informadas). *Fecha de entrega: 18 de marzo de 2018*.
 5. [Búsquedas con adversario](https://github.com/IA-UNISON/tarea06-Busqueda-Adversario).  *Fecha de entrega 16 de abril de 2018*.
 6. [Bayes inocente](https://github.com/IA-UNISON/tarea06-Naive-Bayes).  *Fecha de entrega: 14 de mayo de 2018*.
 7. [Aprendizaje supervisado](https://github.com/IA-UNISON/tarea07-aprendizaje-supervisado).  *Fecha de entrega: 25 de mayo 2018*.

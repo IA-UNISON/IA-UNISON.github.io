@@ -138,8 +138,16 @@ y la evaluación es la siguiente:
 
 | Característica           | Modelo 1 | Modelo 2 |
 |--------------------------|----------|----------|
-| ¿Espaco de estado?       |          |          |
-| ¿Dominios?               |          |          |
-| ¿Vecindades?             |          |          |
-| ¿Restricciones binarias  |          |          |
-| ¿Restricciones globales? |          |          |
+| ¿Espaco de estado?       |          | si       |
+| ¿Dominios?               |          | si       |
+| ¿Vecindades?             |          | si       |
+| ¿Restricciones binarias  |          | si       |
+| ¿Restricciones globales? |          | si       |
+
+
+
+### Actividad 5: Desarrollando heurísticas admisibles
+
+Desarrolla los ejercicios que se encuentran en el documento de [evaluación contínua 5](/assets/docs/continua_5.pdf),
+desarrolla tus respuestas en un documento en $\LaTeX$. Las respuestas pueden ser realizadas en forma
+individual o por equipos. Una vez que todos hayan mandado sus respuestas, vamos a discutir las heurísticas propuestas en clase.
