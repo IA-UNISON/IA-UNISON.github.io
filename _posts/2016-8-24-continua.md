@@ -187,3 +187,22 @@ contínua 5](/assets/docs/continua_5.pdf), desarrolla tus respuestas en un
 documento en $\LaTeX$. Las respuestas pueden ser realizadas en forma individual
 o por equipos. Una vez que todos hayan mandado sus respuestas, vamos a discutir
 las heurísticas propuestas en clase.
+
+Las respuestas por equipos se pueden consultar en [este
+documento](/assets/docs/busqueda1.pdf) y en [este otro
+documento](/assets/docs/busqueda2.pdf).
+
+
+| Problema 1                       | Equipo 1 | Equipo 2 | Problema 2               | Equipo 1 | Equipo 2 |
+|----------------------------------|----------|----------|--------------------------|----------|----------|
+| Factor de ramificación           |          |          | Espacio de estado        |          |          |
+| Estados a profundidad k          |          |          | Acciones legales         |          |          |
+| Nodos expandidos BFS árboles     |          |          | Estado sucesor           |          |          |
+| Nodos expandidos BFS grafos      |          |          | Costo local              |          |          |
+| Nodos expandidos DFS árboles     |          |          | Cardinalidad de S        |          |          |
+| Nodos expandidos DFS grafos      |          |          | ¿Heurísticas admisibles? |          |          |
+| Heurística admisibles            |          |          | Dos heurísticas          |          |          |
+| Nodos expandidos A*              |          |          | ¿Admisibles?             |          |          |
+| Admisible primer cambio entorno  |          |          | ¿Dominancia?             |          |          |
+| Admisible segundo cambio entorno |          |          | ¿Gráfos o árboles?       |          |          |
+
