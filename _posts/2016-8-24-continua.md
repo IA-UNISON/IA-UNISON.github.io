@@ -206,3 +206,22 @@ documento](/assets/docs/busqueda2.pdf).
 | Admisible primer cambio entorno  |          |          | ¿Dominancia?             |          |          |
 | Admisible segundo cambio entorno |          |          | ¿Gráfos o árboles?       |          |          |
 
+
+## Actividad 6: Busquedas con adversarios: Minimax y poda $\alpha$--$\beta$
+
+Desarrolla los ejercicios que se encuentran en el documento de [evaluación
+contínua 6](/assets/docs/continua_6.pdf), desarrolla tus respuestas en un
+documento en $\LaTeX$. Las respuestas pueden ser realizadas en forma individual
+o por equipos. Una vez que todos hayan mandado sus respuestas, vamos a discutir
+los resultados en clase.
+
+## Actividad 7: Modelos gráficos probabilistas
+
+Desarrolla los ejercicios que se encuentran en el documento de [evaluación
+contínua 7](/assets/docs/continua_7.pdf), desarrolla tus respuestas en un
+documento en $\LaTeX$. Las respuestas pueden ser realizadas en forma individual
+o por equipos. Una vez que todos hayan mandado sus respuestas, vamos a discutir
+los resultados en clase.
+
+
+
