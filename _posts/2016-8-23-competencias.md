@@ -87,8 +87,9 @@ primera actividad):
    adversario](https://github.com/IA-UNISON/6-Busqueda-Adversario). *Fecha de
    entrega 22 de octubre de 2018*.
 
+6. [Bayes inocente](https://github.com/IA-UNISON/6-Naive-Bayes).  *Fecha de entrega: 15 de noviembre de 2018*.
+
 <!---
-6. [Bayes inocente](https://github.com/IA-UNISON/tarea06-Naive-Bayes).  *Fecha de entrega: 14 de mayo de 2018*.
 7. [Aprendizaje supervisado](https://github.com/IA-UNISON/tarea07-aprendizaje-supervisado).  *Fecha de entrega: 25 de mayo 2018*.
 8. [Aprendizaje no supervisado](https://github.com/IA-UNISON/tarea08-aprendizaje-no-supervisado).  *Fecha de entrega 25 de mayo*.
 
