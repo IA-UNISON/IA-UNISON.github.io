@@ -68,7 +68,8 @@ primera actividad):
    comprensión no serán resueltos en linea ya que puede mal
    interpretarse como un error menor.
 
-## Listado de tareas a realizar (se irán agregando a lo largo del semestre)
+## Listado de actividades de evaluación de competencias 
+(se irán agregando a lo largo del semestre)
 
 1. [Agentes inteligentes](https://github.com/IA-UNISON/1-Agentes-Inteligentes).
    *Fecha de entrega: 3 de septiebre de 2018*.
