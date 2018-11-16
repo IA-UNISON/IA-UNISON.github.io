@@ -2,6 +2,7 @@
 layout: post
 title: Evaluación continua
 description: Actividades de evaluación continua
+mathjax: true
 image: assets/images/larga1.jpg
 ---
 
