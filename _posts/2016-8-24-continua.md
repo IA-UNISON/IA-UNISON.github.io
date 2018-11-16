@@ -231,7 +231,7 @@ cnocer y dominar 3 tecnologías: *jupyter* como un medio de programación litera
 como la biblioteca de base para graficación. 
 
 Como actividad continua se deja la solución de una *libreta-tutorial* que desarrollé, para la cual hay
-que instalar algunos modulos especializados (si instalaste la versión de *Anaconda* de *python* ya viene todo lo que necesitas). La libreta se puede descargar [aqui](/assets/docs/intro_numpy.ipynb).
+que instalar algunos modulos especializados (si instalaste la versión de *Anaconda* de *python* ya viene todo lo que necesitas). La libreta se puede descargar [aqui](https://nbviewer.jupyter.org/github/IA-UNISON/IA-UNISON.github.io/blob/master/assets/docs/intro_numpy.ipynb).
 
 Si requieres información sobre *jupyter* [aqui te dejo la liga a un tutorial que hice hace algo de tiempo](https://juliowaissman.github.io/jupyter-intro).
 
