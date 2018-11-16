@@ -223,5 +223,16 @@ documento en $\LaTeX$. Las respuestas pueden ser realizadas en forma individual
 o por equipos. Una vez que todos hayan mandado sus respuestas, vamos a discutir
 los resultados en clase.
 
+## Actividad 8: Introducción a `numpy` y `matlotlib`
+
+Para poder aplicar las bibliotecas de aprendizaje automático en *python* es necesario
+cnocer y dominar 3 tecnologías: *jupyter* como un medio de programación literal en python, 
+`numpy` como biblioteca matemática básica en el *stack* científico de *python* y `matplotlib`
+como la biblioteca de base para graficación. 
+
+Como actividad continua se deja la solución de una *libreta-tutorial* que desarrollé, para la cual hay
+que instalar algunos modulos especializados (si instalaste la versión de *Anaconda* de *python* ya viene todo lo que necesitas). La libreta se puede descargar [aqui](/assets/docs/intro_numpy.ipynb).
+
+Si requieres información sobre *jupyter* [aqui te dejo la liga a un tutorial que hice hace algo de tiempo](https://juliowaissman.github.io/jupyter-intro).
 
 
