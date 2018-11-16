@@ -196,16 +196,16 @@ documento](/assets/docs/busqueda2.pdf).
 
 | Problema 1                       | Equipo 1 | Equipo 2 | Problema 2               | Equipo 1 | Equipo 2 |
 |----------------------------------|----------|----------|--------------------------|----------|----------|
-| Factor de ramificación           |          |          | Espacio de estado        |          |          |
-| Estados a profundidad k          |          |          | Acciones legales         |          |          |
-| Nodos expandidos BFS árboles     |          |          | Estado sucesor           |          |          |
-| Nodos expandidos BFS grafos      |          |          | Costo local              |          |          |
-| Nodos expandidos DFS árboles     |          |          | Cardinalidad de S        |          |          |
-| Nodos expandidos DFS grafos      |          |          | ¿Heurísticas admisibles? |          |          |
-| Heurística admisibles            |          |          | Dos heurísticas          |          |          |
-| Nodos expandidos A*              |          |          | ¿Admisibles?             |          |          |
-| Admisible primer cambio entorno  |          |          | ¿Dominancia?             |          |          |
-| Admisible segundo cambio entorno |          |          | ¿Gráfos o árboles?       |          |          |
+| Factor de ramificación           |    si    |   si     | Espacio de estado        |   si     |   si     |
+| Estados a profundidad k          |    si    |   si     | Acciones legales         |   si     |   si     |
+| Nodos expandidos BFS árboles     |    si    |   si     | Estado sucesor           |   si     |   si     |
+| Nodos expandidos BFS grafos      |    si    |   si     | Costo local              |   si     |   si     |
+| Nodos expandidos DFS árboles     |    si    |   si     | Cardinalidad de S        |   si     |   si     |
+| Nodos expandidos DFS grafos      |    si    |   si     | ¿Heurísticas admisibles? |   si     |   si     |
+| Heurística admisibles            |    si    |   si     | Dos heurísticas          |   si     |   si     |
+| Nodos expandidos A*              |    si    |   si     | ¿Admisibles?             |   no     |   no     |
+| Admisible primer cambio entorno  |    si    |   si     | ¿Dominancia?             |   no     |   si     |
+| Admisible segundo cambio entorno |    si    |   si     | ¿Gráfos o árboles?       |   no     |   no     |
 
 
 ## Actividad 6: Busquedas con adversarios: Minimax y poda $\alpha$--$\beta$
