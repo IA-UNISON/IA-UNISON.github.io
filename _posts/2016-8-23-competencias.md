@@ -90,8 +90,9 @@ primera actividad):
 
 6. [Bayes inocente](https://github.com/IA-UNISON/6-Naive-Bayes).  *Fecha de entrega: 15 de noviembre de 2018*.
 
+7. [Aprendizaje supervisado](https://github.com/IA-UNISON/7-Aprendizaje-Supervisado).  *Fecha de entrega: 30 de noviembre de 2018*.
+
 <!---
-7. [Aprendizaje supervisado](https://github.com/IA-UNISON/tarea07-aprendizaje-supervisado).  *Fecha de entrega: 25 de mayo 2018*.
 8. [Aprendizaje no supervisado](https://github.com/IA-UNISON/tarea08-aprendizaje-no-supervisado).  *Fecha de entrega 25 de mayo*.
 
 
