@@ -58,6 +58,23 @@ image: assets/images/larga3.jpg
 
 ## Búsquedas informadas
 
-1. [Una presentación general sobre búsquedas informadas](https://raw.githubusercontent.com/IA-UNISON/material/master/presentaciones/busquedas.pdf)
 
-2. [El algoritmo A* de Wikipedia (claro y sin errores)](https://en.wikipedia.org/wiki/A*_search_algorithm)
+1. [El algoritmo A* de Wikipedia (claro y sin errores)](https://en.wikipedia.org/wiki/A*_search_algorithm)
+
+2. [Una presentación bastante clara de la U. de Sevilla de búsquedas informadas](http://ia-unison.github.io/material/presentaciones/modelos_busquedas.pdf)
+
+
+
+## Búsquedas con adversarios
+
+
+## Modelos gráficos probabilistas
+
+1. [Notas sobre probabilidad utilizadas en Stanford como recordatorio rápido en el curso de ML](http://ia-unison.github.io/material/notas/proba.pdf)
+
+
+## Aprendizaje automático
+
+1. [Algoritmos fundamentales de aprendizaje supervisado](https://www.dropbox.com/s/qiq2c85cle9ydb6/Chapter3.pdf?dl=0)
+
+2. [Curso *Learning from data* de Y. S. Abbu-Mostafa](http://work.caltech.edu/telecourse.html). En mi opinión en mejor MOOC de aprendizaje automñatico, una buena combinación entre teoría y práctica. Bastante retador. 
