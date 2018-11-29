@@ -236,4 +236,10 @@ que instalar algunos modulos especializados (si instalaste la versión de *Anaco
 
 Si requieres información sobre *jupyter* [aqui te dejo la liga a un tutorial que hice hace algo de tiempo](https://juliowaissman.github.io/jupyter-intro).
 
+## Actividad 8: Introducción a `pandas`
+
+Para manipular datos en python, la mejor (y la más popular) de las bibliotecas que existen es `pandas`. En `pandas` se dedinen objetos tipi `DataFrame` y `Series` que permiten manejar los datos en forma sencilla, y como ambas clases heredan de `numpy.ndarray`, mantienen compatibilidad para ser usadas dentro de `scikit-learn` y otras bibliotecas de aprendizaje automático.  
+
+Como actividad continua se deja la solución de una *libreta-tutorial* que desarrollé, para la cual hay
+que instalar algunos modulos especializados (si instalaste la versión de *Anaconda* de *python* ya viene todo lo que necesitas). La libreta se puede descargar [aqui](/assets/docs/intro_pandas.ipynb). Para desarrollar la libreta es necesario descargar una tabla de datos en formato csv sobre [transito de bicicletas](/assets/docs/bikes.csv).
 
