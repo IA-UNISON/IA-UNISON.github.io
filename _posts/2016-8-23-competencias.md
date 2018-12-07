@@ -92,9 +92,5 @@ primera actividad):
 
 7. [Aprendizaje supervisado](https://github.com/IA-UNISON/7-Aprendizaje-Supervisado).  *Fecha de entrega: 30 de noviembre de 2018*.
 
-<!---
-8. [Aprendizaje no supervisado](https://github.com/IA-UNISON/tarea08-aprendizaje-no-supervisado).  *Fecha de entrega 25 de mayo*.
+8. [Aprendizaje no supervisado](https://github.com/IA-UNISON/tarea08-aprendizaje-no-supervisado).  *Fecha de entrega hasta el último día del semestre para pasar calificaciones*.
 
-
-9. [Programación dinámica y aprendizaje por refuerzo](https://github.com/IA-UNISON/tarea08-aprendizaje-no-supervisado). *Fecha de entrega por anunciar, favor de no iniciar la tarea todavía*.
--->
