@@ -12,7 +12,18 @@ actividades serán colaborativas y otras serán para desarrollarlas de forma
 individual.
 
 Conforme vaya avanzando el semestre vamos a ir colocando las actividades que
-estamos realizando.
+estamos realizando. En esta página vamos a mantener una *bitácora* con las
+actividades realizadas y las evaluaciones que vamos realizando.
+
+Las actividades de evaluación continua son trabajos que se espera se realicen en
+equipos, o de forma individual con mucha comunicación entre los estudiantes y
+con el profesor (e incluso comentando y asesorándose con otros profesores).
+Estas actividades tienen como objetivo el poder medir (tanto para los
+estudiantes como para el profesor) la comprensión de los temas tratados hasta el
+momento. Algunas serán actividades a realizar en la hora de curso, otras serán
+actividades para realizar en horas extra clase. La discusión de lo que se ha
+hecho en éstas actividades es muy importante para completar la comprensión de
+los temas vistos.
 
 ### Actividad 1: Programación en python
 
@@ -22,13 +33,18 @@ necesario conocer los aspectos básicos de programación en python (en la versi�
 
 Descargue el [siguiente archivo con ejercicios en
 python](https://github.com/IA-UNISON/material/raw/master/examenes-rapidos/examen%20rápido%201/examen-rapido-01.pdf)
-y resuelve todos los ejercicios (se entregó una copia física en clase). Fecha
-límite de entrega *24 de agosto de 2018*. Este ejercicio es el mismo desde hace
-un año, procura no copiarlo, ya que van a ser muy importante las habilidades de
-programación en python en el resto del curso.
+y resuelve todos los ejercicios. Fecha límite de entrega *21 de enero de 2019*.
+Este ejercicio es el mismo desde hace varios semestres, procura no copiarlo, ya
+que van a ser muy importante las habilidades de programación en python en el
+resto del curso.
+
+Los trabajos hay que guardarlos en un archivo con el nombre
+`continua1_apellido.py` donde obviamente `apellido` se sustituye por su primer
+apellido. Ese archivo me lo deben de enviar a mi correo electrónico
+(juliowaissman@unison.mx) con el asunto *Actividad continua 1*.
 
 
-Algunas consideraciones visto su trabajo (en forma genérica):
+Algunas consideraciones (en forma genérica):
 
 1. Por convención las variables y funciones se acostumbra escribirlas en
    minúsculas y con el estilo de guión bajo (`una_variable`), mientras que para
@@ -51,33 +67,16 @@ if self.ren != otro.col:
 	raise ValueError("No se pueden multiplicar las matrices")
 ```
 
-3. es importante procurar cargar todas las librerías que se van a utilizar al
+3. Es importante procurar cargar todas las librerías que se van a utilizar al
    inicio del módulo, no es mandatorio pero mejora mucho la legibilidad y
    posterior corrección.
 
-4. Sólamente se debe poner un constructor (método `__init__`) por clase.
-
-5. Los diccionaros son tablas hash, por lo que es importante aprovechar sus
-   ventajas y no hacer una
-
-6. Todo se debe de programar a través de una función y/o clase. El uso de
-   `input` debe evitarse al máximo, y pasar todos los datos como parámetros de
-   una función.
-
-Los resultados son los siguientes:
-
-| Sección | Castro | Encinas | Espinoza | Noriega | Paredes |
-|---------|--------|---------|----------|---------|---------|
-| 1.1     | bien   | bien    | bien     | bien    | bien    |
-| 1.2     | bien   | bien    | bien     | bien    | bien    |
-| 2.1     | bien   | bien    | bien     | bien    | bien    |
-| 2.2     | mal    | bien    | mal      | bien    | bien    |
-| 2.3     | maso   | bien    | maso     | bien    | bien    |
-| 3.1     | bien   | bien    | bien     | bien    | mal     |
-| 3.2     | bien   | bien    | bien     | bien    | faltó   |
-| 3.3     | faltó  | faltó   | maso+    | maso    | maso+   |
+4. Solamente se debe poner un constructor (método `__init__`) por clase.
 
 
+
+
+<!--
 
 ### Actividad 2: Crucigrama de conceptos
 
@@ -243,3 +242,4 @@ Para manipular datos en python, la mejor (y la más popular) de las bibliotecas 
 Como actividad continua se deja la solución de una *libreta-tutorial* que desarrollé, para la cual hay
 que instalar algunos modulos especializados (si instalaste la versión de *Anaconda* de *python* ya viene todo lo que necesitas). La libreta se puede descargar [aqui](/assets/docs/intro_pandas.ipynb). Para desarrollar la libreta es necesario descargar una tabla de datos en formato csv sobre [transito de bicicletas](/assets/docs/bikes.csv).
 
+-->
