@@ -76,25 +76,25 @@ if self.ren != otro.col:
 
 ### Actividad 2: Crucigrama de conceptos
 
-Con el fin de reevisar los conceptos teóricos sobre la definición e historia de la IA, así como de los agentes racionales, vamos a realizar una dinámica grupal/individual el viernes 25 de enero.
+Con el fin de revisar los conceptos teóricos sobre la definición e historia de la IA, así como de los agentes racionales, vamos a realizar una dinámica grupal/individual el viernes 25 de enero.
 
 La dinámica es la siguiente:
 
 1. Cada estudiante va a elaborar, en media hora, un pequeño test con 10 enunciados los cuales puedan ser falsos o verdaderos. Los enunciados pueden ser sobre:
 
-   a. Definición de IA y7o agentes racionales
+   a. Definición de IA y/o agentes racionales
    b. Historia de la IA
    c. Entornos, definición PEAS y/o caracteríaticas de los entornos
    d. Agentes racionales, definición y/o tipos de agentes racionales
-   e. Eemplos de aplicaciones de la IA
+   e. Ejemplos de aplicaciones de la IA
    
 2. Los estudiantes se van a intercambiar en forma aleatoria los examenes realizados, cada uno tendrá 15 minutos para reponderlo.
 
-3. Los examenes se dvuelven a quien los elaboró y los evalúa en 5 min.
+3. Los examenes se devuelven a quien los elaboró y los evalúa en 5 min.
 
 4. Tienen 5 min. para explicar (y discutir) en grupos de 6 estudiantes, cuales estuvieron mal contestadas y porqué.
 
-Los exámenes al gfinal deben de llevar el nombre **unicamente** de quien lo elaboró. Como profesor, voy a evaluar lo interesante de los enunciados y el hecho que se encuentren bien evaluados. El estudiante que elaboré el mejor de los examenes a juicio (subjetivo) del profesor, recibirá un estimulo, ya sea como puntos extra en otras actividades de evaluación continua, ya sea como puntos extra en el primer examen parcial, dependiendo de la calidad del trabajo.
+Los exámenes al final deben de llevar el nombre **unicamente** de quien lo elaboró. Como profesor, voy a evaluar lo interesante de los enunciados y el hecho que se encuentren bien evaluados. El estudiante que elaboré el mejor de los examenes a juicio (subjetivo) del profesor, recibirá un estimulo, ya sea como puntos extra en otras actividades de evaluación continua, ya sea como puntos extra en el primer examen parcial, dependiendo de la calidad del trabajo.
  
 
 
