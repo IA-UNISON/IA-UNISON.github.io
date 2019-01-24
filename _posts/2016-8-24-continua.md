@@ -82,11 +82,11 @@ La dinámica es la siguiente:
 
 1. Cada estudiante va a elaborar, en media hora, un pequeño test con 10 enunciados los cuales puedan ser falsos o verdaderos. Los enunciados pueden ser sobre:
 
-   a. Definición de IA y/o agentes racionales
-   b. Historia de la IA
-   c. Entornos, definición PEAS y/o caracteríaticas de los entornos
-   d. Agentes racionales, definición y/o tipos de agentes racionales
-   e. Ejemplos de aplicaciones de la IA
+   1. Definición de IA y/o agentes racionales
+   2. Historia de la IA
+   3. Entornos, definición PEAS y/o caracteríaticas de los entornos
+   4. Agentes racionales, definición y/o tipos de agentes racionales
+   5. Ejemplos de aplicaciones de la IA
    
 2. Los estudiantes se van a intercambiar en forma aleatoria los examenes realizados, cada uno tendrá 15 minutos para reponderlo.
 
