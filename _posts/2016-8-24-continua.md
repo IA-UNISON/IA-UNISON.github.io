@@ -74,7 +74,7 @@ if self.ren != otro.col:
 4. Solamente se debe poner un constructor (método `__init__`) por clase.
 
 
-### Actividad 2: Crucigrama de conceptos
+### Actividad 2: Haciendo un cuestionario
 
 Con el fin de revisar los conceptos teóricos sobre la definición e historia de la IA, así como de los agentes racionales, vamos a realizar una dinámica grupal/individual el viernes 25 de enero.
 
@@ -97,7 +97,19 @@ La dinámica es la siguiente:
 Los exámenes al final deben de llevar el nombre **unicamente** de quien lo elaboró. Como profesor, voy a evaluar lo interesante de los enunciados y el hecho que se encuentren bien evaluados. El estudiante que elaboré el mejor de los examenes a juicio (subjetivo) del profesor, recibirá un estimulo, ya sea como puntos extra en otras actividades de evaluación continua, ya sea como puntos extra en el primer examen parcial, dependiendo de la calidad del trabajo.
  
 
+### Actividad 3: Modelado de un problema
 
+En clase se dejo como trabajo el modelado de un problema no trivial (acomodar una serie de piezas de caminos de tren de juguete, de manera que todas las piezas queden conectadas entre si, y que no quedan caminos encimados ni conectores sueltos.
+
+El ejercicio consiste en establecer el problema de optimización, esto es:
+
+1. La representación del estado
+2. El espacio de estado y su cardinalidad
+3. El costo de un estado
+4. Como generar un vecino aleatorio de un estado (opcional)
+5. Como generar todos los vecinos de un estado (opcional)
+
+El trabajo hay que entregarlo el día miércoles 6 de febrero. A mano o de preferencia como un documento escrito con LaTeX.
 
 <!--
 
