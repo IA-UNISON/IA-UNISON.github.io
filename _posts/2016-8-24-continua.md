@@ -99,9 +99,9 @@ Los exámenes al final deben de llevar el nombre **unicamente** de quien lo elab
 En general todos los cuestionarios fueron bastante buenos. Se seleccionaron algunas de las preguntas que, o se prestaban a interpretaciones, o servian de entrada para ampliar un poco lo visto en clase sobre temas particularmente interesantes.
  
 
-### Actividad 3: Modelado de un problema
+### Actividad 3: Modelado de un problema de búsqueda local
 
-En clase se dejo como trabajo el modelado de un problema no trivial (acomodar una serie de piezas de caminos de tren de juguete, de manera que todas las piezas queden conectadas entre si, y que no quedan caminos encimados ni conectores sueltos.
+En clase se dejo como trabajo el modelado de un problema no trivial (acomodar una serie de piezas de caminos de tren de juguete, de manera que todas las piezas queden conectadas entre si, y que no quedan caminos encimados ni conectores sueltos).
 
 El ejercicio consiste en establecer el problema de optimización, esto es:
 
