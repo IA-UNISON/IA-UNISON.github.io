@@ -81,7 +81,7 @@ se familiaricen con el nivel de dificultad de las actividades.
    **disponible**. *Fecha límite de entrega: 19 de febrero de 2019.*
 
 3. [Satisfacción de restricciones](https://github.com/IA-UNISON/3-SatisfaccionRestricciones).
-   **En proceso de modificación**. *Fecha estimada de publicación: 15 de febrero de 2019.*
+   **disponible**. *Fecha límite de entrega: 28 de febrero de 2019.*
 
 4. [Búsquedas informadas](https://github.com/IA-UNISON/5-Busquedas-Informadas).
    **En proceso de modificación**. *Fecha estimada de publicación: 1 de marzo de 2019.*
