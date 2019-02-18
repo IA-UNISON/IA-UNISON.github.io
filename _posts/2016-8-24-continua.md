@@ -95,6 +95,8 @@ La dinámica es la siguiente:
 4. Tienen 5 min. para explicar (y discutir) en grupos de 6 estudiantes, cuales estuvieron mal contestadas y porqué.
 
 Los exámenes al final deben de llevar el nombre **unicamente** de quien lo elaboró. Como profesor, voy a evaluar lo interesante de los enunciados y el hecho que se encuentren bien evaluados. El estudiante que elaboré el mejor de los examenes a juicio (subjetivo) del profesor, recibirá un estimulo, ya sea como puntos extra en otras actividades de evaluación continua, ya sea como puntos extra en el primer examen parcial, dependiendo de la calidad del trabajo.
+
+En general todos los cuestionarios fueron bastante buenos. Se seleccionaron algunas de las preguntas que, o se prestaban a interpretaciones, o servian de entrada para ampliar un poco lo visto en clase sobre temas particularmente interesantes.
  
 
 ### Actividad 3: Modelado de un problema
@@ -110,6 +112,42 @@ El ejercicio consiste en establecer el problema de optimización, esto es:
 5. Como generar todos los vecinos de un estado (opcional)
 
 El trabajo hay que entregarlo el día miércoles 6 de febrero. A mano o de preferencia como un documento escrito con LaTeX.
+
+Varios estudiantes no entregaron esta tarea tristemente para mi. Por otro lado, los que la entregaron hicieron un muy buen trabajo para modelar un problema no trivial.
+
+### Actividad 4: Inventando un algoritmo metaheurístico
+
+Con el fin de revisar si se comprendió correctamente la mecánica detrás de los
+algoritmos metaheurísticos de búsquedas locales, cada estudiante va a desarrollar (de manera muy breve) una propuesta de
+algoritmo metaheurístico, no importa si es factible, eficiente o funcional (o si
+ya existe).
+
+Cada estudiante entregará un reporte en $\LaTeX$ lo más concreto posible el cuál
+deberá contener lo siguiente:
+
+- ¿Cuál es la metáfora (metaheurística de donde se inspira)?
+
+- ¿Cuales son los operadores principales?
+
+- ¿Porqué podría pensarse que el algoritmo converge asintóticamente a un mínimo
+  global?
+
+Agradezco el esfuerzo de los estudiantes para entregar una idea. En particular hubo un par de metaheurísticas propuestas que me parecieron muy interesantes, pero en general todo mundo hizo un esfuerzo genuino y original.
+
+### Actividad 5: Modelado de un problema de CSP
+
+Con el fin de dar énfasis en el problema del modelado de CSP, más que en los algoritmos de solución,
+en esta actividad se propuso resolver en forma grupal el problema de construcción de
+crucigramas a partir de un conjunto determinado de palabras. El problema consistia en determinar
+
+- Variables (como describirlas)
+- Dominios
+- Restricciones unarias
+- Restricciones binarias
+- Restricciones globales
+- Vecinos (si aplica)
+
+El resultado fue muy bueno de acuerdo a mi percepción. En particular me gustó mucho la manera en que se discutió en grupo el problema y como todos podían participar con ideas durante la exposición que realizaron.
 
 <!--
 
