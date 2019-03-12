@@ -149,6 +149,15 @@ crucigramas a partir de un conjunto determinado de palabras. El problema consist
 
 El resultado fue muy bueno de acuerdo a mi percepción. En particular me gustó mucho la manera en que se discutió en grupo el problema y como todos podían participar con ideas durante la exposición que realizaron.
 
+
+### Actividad 6: Desarrollando heurísticas admisibles
+
+Desarrolla los ejercicios que se encuentran en el documento de [evaluación
+contínua 6](/assets/docs/continua_6_2019.pdf), desarrolla tus respuestas en un
+documento en $\LaTeX$. Las respuestas deben ser realizadas en forma individual. Una vez que todos hayan mandado sus respuestas, vamos a discutir
+las heurísticas propuestas en clase.
+
+
 <!--
 
 ### Actividad 2: Crucigrama de conceptos
