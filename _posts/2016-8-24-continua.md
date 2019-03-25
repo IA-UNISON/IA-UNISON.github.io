@@ -157,6 +157,14 @@ contínua 6](/assets/docs/continua_6_2019.pdf), desarrolla tus respuestas en un
 documento en $\LaTeX$. Las respuestas deben ser realizadas en forma individual. Una vez que todos hayan mandado sus respuestas, vamos a discutir
 las heurísticas propuestas en clase.
 
+Con mucha pena, esta actividad sólamente la realizó y la envió Liz Soto. Espero que en otras actividades de evaluación continua la participación vuelva a ser masiva ya que es la manera en que puedo yo ir midiendo el avance del grupo y la velocidad a la que vemos los temas.
+
+## Actividad 7: Busquedas con adversarios: Minimax y poda $\alpha$--$\beta$
+
+Desarrolla los ejercicios que se encuentran en el documento de [evaluación
+contínua 6](/assets/docs/continua_6.pdf). El semestre pasado fue la actividad continua 6, 
+pero ahora ya vamos en la actividad 7 (hemos mejorado). Las respuestas las vamos a discutir
+en clase.
 
 <!--
 
