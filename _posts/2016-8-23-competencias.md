@@ -86,8 +86,8 @@ se familiaricen con el nivel de dificultad de las actividades.
 4. [Búsquedas informadas](https://github.com/IA-UNISON/4-Busquedas-Informadas).
    **disponible**. *Fecha límite de entrega: 19 de marzo de 2019.*
 
-5. [Búsquedas con adversario](https://github.com/IA-UNISON/6-Busqueda-Adversario). 
-   **En proceso de modificación**. *Fecha estimada de publicación: 22 de marzo de 2019.*
+5. [Búsquedas con adversario](https://github.com/IA-UNISON/5-Busqueda-Adversario). 
+   **disponible**. *Fecha límite de entrega: 23 de abril de 2019.*
 
 6. [Redes bayesianas](https://github.com/IA-UNISON/6-Naive-Bayes). 
    **En proceso de modificación**. *Fecha estimada de publicación: 12 de abril de 2019.*
