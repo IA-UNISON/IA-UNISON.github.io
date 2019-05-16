@@ -159,12 +159,45 @@ las heurísticas propuestas en clase.
 
 Con mucha pena, esta actividad sólamente la realizó y la envió Liz Soto. Espero que en otras actividades de evaluación continua la participación vuelva a ser masiva ya que es la manera en que puedo yo ir midiendo el avance del grupo y la velocidad a la que vemos los temas.
 
-## Actividad 7: Busquedas con adversarios: Minimax y poda $\alpha$--$\beta$
+### Actividad 7: Busquedas con adversarios: Minimax y poda alfa-beta
 
 Desarrolla los ejercicios que se encuentran en el documento de [evaluación
 contínua 6](/assets/docs/continua_6.pdf). El semestre pasado fue la actividad continua 6, 
 pero ahora ya vamos en la actividad 7 (hemos mejorado). Las respuestas las vamos a discutir
 en clase.
+
+### Actividad 8: Redes bayesianas 
+
+Desarrolla los ejercicios que se encuentran en el documento [evaluación continua 7] (/assets/docs/continua_7.pdf). Como la otra, el semestre anterior está actividad fue la actividad 7 (por eso la confusión). 
+
+El trabajo se realizó en fin de semana y las respuestas se revisaron el lunes. Me gustó la participación de todos, si bien hubo algunos estudiantes que se destacaron por el esfuerzo en realizar la actividad.
+
+### Actividad 9: Aprendiando a usar numpy/matplotlib y libretas jupyter
+
+Para poder aplicar las bibliotecas de aprendizaje automático en *python* es necesario
+cnocer y dominar 3 tecnologías: *jupyter* como un medio de programación literal en python, 
+`numpy` como biblioteca matemática básica en el *stack* científico de *python* y `matplotlib`
+como la biblioteca de base para graficación. 
+
+Como actividad continua se deja la solución de una *libreta-tutorial* que desarrollé, para la cual hay
+que instalar algunos modulos especializados (si instalaste la versión de *Anaconda* de *python* ya viene todo lo que necesitas). La libreta se puede descargar [aqui](https://nbviewer.jupyter.org/github/IA-UNISON/IA-UNISON.github.io/blob/master/assets/docs/intro_numpy.ipynb).
+
+Si requieres información sobre *jupyter* [aqui te dejo la liga a un tutorial que hice hace algo de tiempo](https://juliowaissman.github.io/jupyter-intro).
+
+
+### Actividad 10: Aprendiendo a usar pandas
+
+Para manipular datos en python, la mejor (y la más popular) de las bibliotecas que existen es `pandas`. En `pandas` se dedinen objetos tipi `DataFrame` y `Series` que permiten manejar los datos en forma sencilla, y como ambas clases heredan de `numpy.ndarray`, mantienen compatibilidad para ser usadas dentro de `scikit-learn` y otras bibliotecas de aprendizaje automático.  
+
+Como actividad continua se deja la solución de una *libreta-tutorial* que desarrollé, para la cual hay
+que instalar algunos modulos especializados (si instalaste la versión de *Anaconda* de *python* ya viene todo lo que necesitas). La libreta se puede descargar [aqui](/assets/docs/intro_pandas.ipynb). Para desarrollar la libreta es necesario descargar una tabla de datos en formato csv sobre [transito de bicicletas](/assets/docs/bikes.csv).
+
+
+
+
+
+
+
 
 <!--
 
