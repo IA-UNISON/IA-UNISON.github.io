@@ -75,25 +75,25 @@ modificación** se dejan las ligas a la actividad con el fin que los estudiantes
 se familiaricen con el nivel de dificultad de las actividades.
 
 1. [Agentes inteligentes](https://github.com/IA-UNISON/1-Agentes-Inteligentes).
-   **disponible**. *Fecha límite de entrega: 1 de febrero de 2019.*
+   **en proceso de modificación.**
 
 2. [Búsquedas locales](https://github.com/IA-UNISON/2-Temple-Simulado). 
-   **disponible**. *Fecha límite de entrega: 19 de febrero de 2019.*
+   **en proceso de modificación.**
 
 3. [Satisfacción de restricciones](https://github.com/IA-UNISON/3-SatisfaccionRestricciones).
-   **disponible**. *Fecha límite de entrega: 28 de febrero de 2019.*
+   **en proceso de modificación.**
 
 4. [Búsquedas informadas](https://github.com/IA-UNISON/4-Busquedas-Informadas).
-   **disponible**. *Fecha límite de entrega: 19 de marzo de 2019.*
+   **en proceso de modificación.**
 
 5. [Búsquedas con adversario](https://github.com/IA-UNISON/5-Busquedas-Adversario). 
-   **disponible**. *Fecha límite de entrega: 23 de abril de 2019.*
+   **en proceso de modificación.**
 
 6. [Redes bayesianas](https://github.com/IA-UNISON/6-Naive-Bayes). 
-   **disponible**. *Fecha límite de entrega: 30 de mayo de 2019.*
+   **en proceso de modificación.**
 
 7. [Aprendizaje supervisado](https://github.com/IA-UNISON/7-Aprendizaje-Supervisado). 
-   **disponible**. *Fecha límite de entrega: 30 de mayo de 2019.*
+   **en proceso de modificación.**
 
 8. [Aprendizaje no supervisado](https://github.com/IA-UNISON/8-Aprendizaje-no-Supervisado). 
-   **disponible**. *Fecha límite de entrega: 30 de mayo de 2019.*
+   **en proceso de modificación.**
