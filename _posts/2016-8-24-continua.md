@@ -74,6 +74,9 @@ if self.ren != otro.col:
 4. Solamente se debe poner un constructor (método `__init__`) por clase.
 
 
+
+<!--
+
 ### Actividad 2: Haciendo un cuestionario
 
 Con el fin de revisar los conceptos teóricos sobre la definición e historia de la IA, así como de los agentes racionales, vamos a realizar una dinámica grupal/individual el viernes 25 de enero.
@@ -199,7 +202,6 @@ que instalar algunos modulos especializados (si instalaste la versión de *Anaco
 
 
 
-<!--
 
 ### Actividad 2: Crucigrama de conceptos
 
