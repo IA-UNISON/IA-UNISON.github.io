@@ -23,6 +23,13 @@ tiles-count: 6
 form_url: https://formspree.io/julio.waissman@unison.mx # endpoint URL to receive contact form submissions
 form_email_name: _replyto # value of the "name" attribute in the "email" field
 
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: iaunison
+
+
 # social settings
 500px_url:
 facebook_url:
