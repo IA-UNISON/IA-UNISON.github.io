@@ -27,8 +27,8 @@ form_email_name: _replyto # value of the "name" attribute in the "email" field
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: iaunison
-
+    # shortname: iaunison
+    shortname: 
 
 # social settings
 500px_url:
