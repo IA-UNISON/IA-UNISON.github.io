@@ -4,7 +4,6 @@ title: Act. eval. continua 1: Programación en python
 comments: true
 description: Actividad de evaluación continua 1
 mathjax: true
-
 ---
 
 Durante el curso vamos a hacer varios programas, todos en *python* por lo que es
