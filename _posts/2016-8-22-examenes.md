@@ -2,6 +2,7 @@
 layout: post
 title: Exámenes de conocimientos
 description: Ejemplos de exámenes de conocimientos
+comments: false
 image: assets/images/chica2.jpg
 ---
 
