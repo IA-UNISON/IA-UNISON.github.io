@@ -25,7 +25,7 @@ actividades para realizar en horas extra clase. La discusión de lo que se ha
 hecho en éstas actividades es muy importante para completar la comprensión de
 los temas vistos.
 
-### [Actividad 1: Programación en python]({% post_url 2015-5-1-continua1 %})
+### [Actividad 1: Programación en python]({% post_url 2017-5-1-continua1 %})
 
 
 <!--
