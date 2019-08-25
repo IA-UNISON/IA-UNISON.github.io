@@ -26,9 +26,11 @@
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		<p>{{ content }}</p>
 	</div>
-	{% if site.disqus.shortname %}
-  		{% include disqus_comments.html %}
-	{% endif %}
+	<div class="inner">
+		{% if site.disqus.shortname %}
+  			{% include disqus_comments.html %}
+		{% endif %}
+	</div>
 </section>
 
 </div>
