@@ -2,6 +2,7 @@
 layout: post
 title: Evaluación de competencias
 description: Prácticas de evaluación de competencias
+comments: false
 image: assets/images/larga2.jpg
 ---
 
