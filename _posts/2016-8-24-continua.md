@@ -30,6 +30,10 @@ los temas vistos.
 
 ### [Actividad 2: Introducción y motivación]({% post_url 2015-1-2-continua2 %})
 
+### [Actividad 3: Ética en la Inteligencia Artificial]({% post_url 2015-1-3-continua3 %})
+
+
+
 <!--
 
 ### Actividad 2: Haciendo un cuestionario
