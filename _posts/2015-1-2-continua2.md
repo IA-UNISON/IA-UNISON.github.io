@@ -78,5 +78,5 @@ una potencia media en IA (y eso implica la necesidad de personas con alto nivel 
 
 Por último les dejo dos lecturas. En [el artículo de "CIO"](http://cio.com.mx/reporte-especial-inteligencia-artificial-en-mexico-listos-para-dar-el-salto/) 
 se hace una evaluación más bien pesimista de lo preparado que está México (y las empresas mexicanas) para adptar la IA, 
-mientras que en el artículo del (INBest.cloud)[https://www.inbest.cloud/comunidad/impacto-de-la-inteligencia-artificial-en-mexico] 
+mientras que en el artículo del [INBest.cloud](https://www.inbest.cloud/comunidad/impacto-de-la-inteligencia-artificial-en-mexico) 
 el autor es más optimista respecto a la situación actual.
