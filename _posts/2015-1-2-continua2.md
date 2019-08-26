@@ -72,7 +72,7 @@ Y aqui dejo otro video de un investigador (Diego Fernandez Slezak) sobre una apl
 
 #### La IA en México
 
-Para comlementar, [este artículo de Forbes](https://www.forbes.com.mx/mexico-puede-triunfar-en-inteligencia-artificial/) 
+Para complementar, [este artículo de Forbes](https://www.forbes.com.mx/mexico-puede-triunfar-en-inteligencia-artificial/) 
 indica (desde una prespectiva super neoliberal) que México puede aprovechar sus particularidades estratégicas para volverse
 una potencia media en IA (y eso implica la necesidad de personas con alto nivel de capacitación).
 
