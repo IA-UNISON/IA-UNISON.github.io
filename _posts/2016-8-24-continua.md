@@ -28,6 +28,7 @@ los temas vistos.
 
 ### [Actividad 1: Programación en python]({% post_url 2015-1-1-continua1 %})
 
+### [Actividad 2: Introducción y motivación]({% post_url 2015-1-2-continua2 %})
 
 <!--
 
