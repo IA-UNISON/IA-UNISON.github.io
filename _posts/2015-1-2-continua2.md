@@ -6,10 +6,10 @@ comments: true
 mathjax: true
 ---
 
+## Instrucciones
 
 ¿Qué es la Inteligencia artificial? 
-¿Cual es la diferencia entre la IA general y específica? 
-¿En que se usa la IA? ¿Porqué tendría que saber IA?
+¿En que se usa la IA? ¿Porqué tendría que saber IA? ¿En Sonora? ¿Neta?
 
 Vamos a tratar de discutir sobre el tema de estudio del curso
 y su importancia. Así como en el enfoque moderno (orientado a agentes)
@@ -19,7 +19,7 @@ En esta actividad vamos a ver algunos videos y dejare unas lecturas para
 estimular la discusión sobre el interés de éste curso en su formación como 
 científicos de la computación.
 
-Vean los videos y ean las entradas que les recomiendo. Al final escriban al menos 2
+Después de revisar el material escriban al menos 2
 entradas en los comentarios respondiendo a dos de las siguientes preguntas:
 
 1. ¿Cuales podrían ser las razones para estudiar AI en la carrera?
@@ -34,7 +34,12 @@ entradas en los comentarios respondiendo a dos de las siguientes preguntas:
 
 6. ¿Tu crees que la Inteligencia Artificial se utilice mucho en México? ¿Crees que puedes encontrar trabajo en el área en Hermosillo?
 
+Al final escriban al menos una respuesta a dos de los comentarios de sus compañeros, complementando lo que 
+ellos escribieron, o confrontando ideas.
 
+Recuerda que este es el material que les propongo pero lo pueden complementar con otro, e inclusive refutar.
+
+## El material
 
 Siempre un viaje a la historia de la IA es interesante para entender mejor 
 de donde viene un área y hacia donde va. En este video vamos a ver la presentacion inicial 
@@ -74,4 +79,4 @@ mientras que en el artículo del (INBest.cloud)[https://www.inbest.cloud/comunid
 el autor es más optimista respecto a la situación actual.
 
 
-
+## Los comentarios
