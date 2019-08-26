@@ -55,19 +55,18 @@ En el video se muestra, en este orden:
 
 4. Que son los agentes inteligentes.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3aCn2-Slaoc?start=980" frameborder="0"> </iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3aCn2-Slaoc?start=980" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 
 Este es un video corto bastante utilitarios, pero con razones bastante válidas para interesarse en el tema si no eres un romántico.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cigy9nBxqOU" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cigy9nBxqOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 
 Y aqui dejo otro video de un investigador (Diego Fernandez Slezak) sobre una aplicación médica de la IA en Argentina.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/znq3ql6wqnE" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/znq3ql6wqnE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 Para comlementar, [este artículo de Forbes](https://www.forbes.com.mx/mexico-puede-triunfar-en-inteligencia-artificial/) 
 indica (desde una prespectiva super neoliberal) que México puede aprovechar sus particularidades estratégicas para volverse
