@@ -13,9 +13,7 @@ mathjax: true
 
 Vamos a tratar de discutir sobre el tema de estudio del curso
 y su importancia. Así como en el enfoque moderno (orientado a agentes)
-que vamos a retener.
-
-En esta actividad vamos a ver algunos videos y dejare unas lecturas para
+que vamos a retener. En esta actividad vamos a ver algunos videos y dejare unas lecturas para
 estimular la discusión sobre el interés de éste curso en su formación como 
 científicos de la computación.
 
@@ -37,12 +35,13 @@ entradas en los comentarios respondiendo a dos de las siguientes preguntas:
 Al final escriban al menos una respuesta a dos de los comentarios de sus compañeros, complementando lo que 
 ellos escribieron, o confrontando ideas.
 
-Recuerda que este es el material que les propongo pero lo pueden complementar con otro, e inclusive refutar.
+Recuerden que este es el material que les propongo pero lo pueden complementar con otro, e inclusive refutar.
 
 ## El material
 
-Siempre un viaje a la historia de la IA es interesante para entender mejor 
-de donde viene un área y hacia donde va. En este video vamos a ver la presentacion inicial 
+#### Intro a la IA en Berkeley
+
+En el primer video vamos a ver la presentacion inicial 
 del curso de IA de Berkeley del 2016. Epezamos en el minuto 16:20, donde empieza a hablar del tema.
 
 En el video se muestra, en este orden:
@@ -59,14 +58,19 @@ En el video se muestra, en este orden:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3aCn2-Slaoc?start=980" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 
-Este es un video corto bastante utilitarios, pero con razones bastante válidas para interesarse en el tema si no eres un romántico.
+#### El cochino dinero
+
+Este es un video corto bastante utilitario, pero con razones bastante válidas para interesarse en el tema si no eres un romántico.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cigy9nBxqOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
+#### IA para cosas más románticas
 
 Y aqui dejo otro video de un investigador (Diego Fernandez Slezak) sobre una aplicación médica de la IA en Argentina.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znq3ql6wqnE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+
+#### La IA en México
 
 Para comlementar, [este artículo de Forbes](https://www.forbes.com.mx/mexico-puede-triunfar-en-inteligencia-artificial/) 
 indica (desde una prespectiva super neoliberal) que México puede aprovechar sus particularidades estratégicas para volverse
@@ -76,6 +80,3 @@ Por último les dejo dos lecturas. En [el artículo de "CIO"](http://cio.com.mx/
 se hace una evaluación más bien pesimista de lo preparado que está México (y las empresas mexicanas) para adptar la IA, 
 mientras que en el artículo del (INBest.cloud)[https://www.inbest.cloud/comunidad/impacto-de-la-inteligencia-artificial-en-mexico] 
 el autor es más optimista respecto a la situación actual.
-
-
-## Los comentarios
