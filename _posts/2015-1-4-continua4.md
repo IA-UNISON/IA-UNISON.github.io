@@ -40,7 +40,7 @@ importante como el primero de los videos.
 
 ### ¿Dudas?
 
-Utilicen el post para hacer preguntas con dudas generales o particulares. Si le puedes responder a un compañero, por favor hazlo.
+Utilicen el blog para hacer preguntas con dudas generales o particulares. Si le puedes responder a un compañero, por favor hazlo.
 
 Recuerden, si no hay dudas, doy por visto el tema y nos lanzamos con las actividades de evaluación.
 
