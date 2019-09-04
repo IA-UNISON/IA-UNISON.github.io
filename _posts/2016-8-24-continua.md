@@ -32,6 +32,7 @@ los temas vistos.
 
 ### [Actividad 3: Ética en la Inteligencia Artificial]({% post_url 2015-1-3-continua3 %})
 
+### [Actividad 4: Satisfacción de restricciones]({% post_url 2015-1-4-continua4 %})
 
 
 <!--
