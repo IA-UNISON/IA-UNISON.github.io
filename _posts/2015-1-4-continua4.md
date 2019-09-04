@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4. 
+title: 4. Satisfacción de restricciones
 description: Actividad de evaluación continua 4
 comments: true
 mathjax: true
