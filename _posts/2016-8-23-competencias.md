@@ -76,7 +76,7 @@ modificación** se dejan las ligas a la actividad con el fin que los estudiantes
 se familiaricen con el nivel de dificultad de las actividades.
 
 1. [Agentes inteligentes](https://github.com/IA-UNISON/1-Agentes-Inteligentes).
-   **en proceso de modificación.**
+   **disponible.** Fecha límite: *3 de septiembre de 2019*.
 
 2. [Búsquedas locales](https://github.com/IA-UNISON/2-Temple-Simulado). 
    **en proceso de modificación.**
