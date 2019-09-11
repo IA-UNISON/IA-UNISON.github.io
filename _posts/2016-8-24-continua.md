@@ -34,6 +34,7 @@ los temas vistos.
 
 ### [Actividad 4: Satisfacción de restricciones]({% post_url 2015-1-4-continua4 %})
 
+### [Actividad 5: Planteamiento de un CSP]({% post_url 2015-1-5-continua5 %})
 
 <!--
 
