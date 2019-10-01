@@ -78,11 +78,11 @@ se familiaricen con el nivel de dificultad de las actividades.
 1. [Agentes inteligentes](https://github.com/IA-UNISON/1-Agentes-Inteligentes).
    **disponible.** Fecha límite: *3 de septiembre de 2019*.
 
-2. [Búsquedas locales](https://github.com/IA-UNISON/2-Temple-Simulado). 
-   **en proceso de modificación.**
+2. [Satisfacción de restricciones](https://github.com/IA-UNISON/3-SatisfaccionRestricciones).
+   **disponible.** Fecha límite: *20 de septiembre de 2019*.
 
-3. [Satisfacción de restricciones](https://github.com/IA-UNISON/3-SatisfaccionRestricciones).
-   **en proceso de modificación.**
+3. [Búsquedas locales](https://github.com/IA-UNISON/2-Temple-Simulado). 
+   **disponible.** Fecha límite: *30 de septiembre de 2019*.
 
 4. [Búsquedas informadas](https://github.com/IA-UNISON/4-Busquedas-Informadas).
    **en proceso de modificación.**
