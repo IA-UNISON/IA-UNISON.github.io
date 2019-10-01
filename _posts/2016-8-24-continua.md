@@ -36,6 +36,8 @@ los temas vistos.
 
 ### [Actividad 5: Planteamiento de un CSP]({% post_url 2015-1-5-continua5 %})
 
+### [Actividad 6: Inventando un algoritmo metaheurístico]({% post_url 2015-1-5-continua6 %})
+
 <!--
 
 ### Actividad 2: Haciendo un cuestionario
