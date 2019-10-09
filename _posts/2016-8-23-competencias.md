@@ -82,10 +82,10 @@ se familiaricen con el nivel de dificultad de las actividades.
    **disponible.** Fecha límite: *20 de septiembre de 2019*.
 
 3. [Búsquedas locales](https://github.com/IA-UNISON/2-Temple-Simulado). 
-   **disponible.** Fecha límite: *30 de septiembre de 2019*.
+   **disponible.** Fecha límite: *3 de octubre de 2019*.
 
 4. [Búsquedas informadas](https://github.com/IA-UNISON/4-Busquedas-Informadas).
-   **en proceso de modificación.**
+   **disponible.** Fecha límite: *18 de octubre de 2019*.
 
 5. [Búsquedas con adversario](https://github.com/IA-UNISON/5-Busquedas-Adversario). 
    **en proceso de modificación.**
