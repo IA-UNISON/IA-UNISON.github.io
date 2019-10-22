@@ -38,6 +38,10 @@ los temas vistos.
 
 ### [Actividad 6: Inventando un algoritmo metaheurístico]({% post_url 2015-1-6-continua6 %})
 
+### [Actividad 7: Búsquedas informadas]({% post_url 2015-1-7-continua7 %})
+
+### [Actividad 8: Minimax y poda alfa-beta]({% post_url 2015-1-8-continua8 %})
+
 <!--
 
 ### Actividad 2: Haciendo un cuestionario
