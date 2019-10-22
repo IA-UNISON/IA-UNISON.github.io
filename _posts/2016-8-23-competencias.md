@@ -88,7 +88,7 @@ se familiaricen con el nivel de dificultad de las actividades.
    **disponible.** Fecha límite: *18 de octubre de 2019*.
 
 5. [Búsquedas con adversario](https://github.com/IA-UNISON/5-Busquedas-Adversario). 
-   **en proceso de modificación.**
+   **disponible.** Fecha límite: *31 de octubre de 2019*.
 
 6. [Redes bayesianas](https://github.com/IA-UNISON/6-Naive-Bayes). 
    **en proceso de modificación.**
