@@ -6,6 +6,8 @@ comments: true
 mathjax: true
 ---
 
+## Pequeño exámen rápido
+
 Desarrolla los ejercicios que se encuentran en el documento de [evaluación
 contínua 6](/assets/docs/continua_6_2019.pdf), desarrolla tus respuestas en un
 documento en $\LaTeX$. Las respuestas deben ser realizadas en forma individual. Una vez que todos hayan mandado sus respuestas, vamos a discutir
