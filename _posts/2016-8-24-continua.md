@@ -42,6 +42,35 @@ los temas vistos.
 
 ### [Actividad 8: Minimax y poda alfa-beta]({% post_url 2015-1-8-continua8 %})
 
+
+### Actividad 9: Modelos gráficos probabilistas
+
+Desarrolla los ejercicios que se encuentran en el documento de [evaluación
+contínua 9](/assets/docs/continua_7.pdf), desarrolla tus respuestas en un
+documento en $\LaTeX$. Las respuestas pueden ser realizadas en forma individual
+o por equipos. Una vez que todos hayan mandado sus respuestas, vamos a discutir
+los resultados en clase.
+
+## Actividad 10: Introducción a `numpy` y `matlotlib`
+
+Para poder aplicar las bibliotecas de aprendizaje automático en *python* es necesario
+cnocer y dominar 3 tecnologías: *jupyter* como un medio de programación literal en python, 
+`numpy` como biblioteca matemática básica en el *stack* científico de *python* y `matplotlib`
+como la biblioteca de base para graficación. 
+
+Como actividad continua se deja la solución de una *libreta-tutorial* que desarrollé, para la cual hay
+que instalar algunos modulos especializados (si instalaste la versión de *Anaconda* de *python* ya viene todo lo que necesitas). La libreta se puede descargar [aqui](https://nbviewer.jupyter.org/github/IA-UNISON/IA-UNISON.github.io/blob/master/assets/docs/intro_numpy.ipynb).
+
+Si requieres información sobre *jupyter* [aqui te dejo la liga a un tutorial que hice hace algo de tiempo](https://juliowaissman.github.io/jupyter-intro).
+
+## Actividad 11: Introducción a `pandas`
+
+Para manipular datos en python, la mejor (y la más popular) de las bibliotecas que existen es `pandas`. En `pandas` se dedinen objetos tipi `DataFrame` y `Series` que permiten manejar los datos en forma sencilla, y como ambas clases heredan de `numpy.ndarray`, mantienen compatibilidad para ser usadas dentro de `scikit-learn` y otras bibliotecas de aprendizaje automático.  
+
+Como actividad continua se deja la solución de una *libreta-tutorial* que desarrollé, para la cual hay
+que instalar algunos modulos especializados (si instalaste la versión de *Anaconda* de *python* ya viene todo lo que necesitas). La libreta se puede descargar [aqui](/assets/docs/intro_pandas.ipynb). Para desarrollar la libreta es necesario descargar una tabla de datos en formato csv sobre [transito de bicicletas](/assets/docs/bikes.csv).
+
+
 <!--
 
 ### Actividad 2: Haciendo un cuestionario
