@@ -91,10 +91,10 @@ se familiaricen con el nivel de dificultad de las actividades.
    **disponible.** Fecha límite: *31 de octubre de 2019*.
 
 6. [Redes bayesianas](https://github.com/IA-UNISON/6-Naive-Bayes). 
-   **en proceso de modificación.**
+  **disponible.** Fecha límite: *12 de diciembre de 2019*.
 
 7. [Aprendizaje supervisado](https://github.com/IA-UNISON/7-Aprendizaje-Supervisado). 
-   **en proceso de modificación.**
+   **disponible.** Fecha límite: *12 de diciembre de 2019*.
 
 8. [Aprendizaje no supervisado](https://github.com/IA-UNISON/8-Aprendizaje-no-Supervisado). 
-   **en proceso de modificación.**
+    **disponible.** Fecha límite: *12 de diciembre de 2019*.
