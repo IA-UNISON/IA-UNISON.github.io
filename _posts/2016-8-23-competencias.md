@@ -13,10 +13,22 @@ aplicación práctica directamente, la idea general es que estas tareas den luz
 suficiente para entender donde y como aplicar los conocimientos de la materia en
 aplicaciones concretas.
 
-Es importante recordar que se va a evaluar estas actividades por las seis mejor
-calificadas, y que es necesaria una calificación aprobatoria en esta evaluación
+En este semestre, las primeras actividades de competencias las tomaremos del
+curso de [Inteligencia Artificial de Berkeley](http://inst.eecs.berkeley.edu/~cs188/fa19/),
+en el cual hay un esquema de 5 proyectos basados en el juego de PACMAN. 
+
+En este marco se encuentran 5 proyectos (mas un proycto de introducción y dos minicompetencias por
+puntos extas). Todos los proyectos se encuentran programados en *python* 3.6 sin el uso de
+bibliotecas especializadas. Se recomienda ampliamente utilizar la distribución Anaconda con un
+entorno virtual en python 3.6. Se dan instrucciones en el proyecto 0 para establecer
+el entorno de trabajo. La estructura de los proyectos se puede consultar [aqui](http://inst.eecs.berkeley.edu/~cs188/fa19/projects/).
+
+Es importante recordar que es necesaria una calificación aprobatoria en esta evaluación
 de competencias para aprobar el curso.
 
+
+
+<!--
 ## Como cargar, modificar y entregar las actividades
 
 Las actividades se encuentran como repositorios de github como se ve más abajo.
@@ -98,3 +110,4 @@ se familiaricen con el nivel de dificultad de las actividades.
 
 8. [Aprendizaje no supervisado](https://github.com/IA-UNISON/8-Aprendizaje-no-Supervisado). 
     **disponible.** Fecha límite: *12 de diciembre de 2019*.
+--> 

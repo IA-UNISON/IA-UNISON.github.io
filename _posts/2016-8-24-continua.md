@@ -32,6 +32,7 @@ los temas vistos.
 
 ### [Actividad 3: Ética en la Inteligencia Artificial]({% post_url 2015-1-3-continua3 %})
 
+<!--
 ### [Actividad 4: Satisfacción de restricciones]({% post_url 2015-1-4-continua4 %})
 
 ### [Actividad 5: Planteamiento de un CSP]({% post_url 2015-1-5-continua5 %})
@@ -71,7 +72,6 @@ Como actividad continua se deja la solución de una *libreta-tutorial* que desar
 que instalar algunos modulos especializados (si instalaste la versión de *Anaconda* de *python* ya viene todo lo que necesitas). La libreta se puede descargar [aqui](/assets/docs/intro_pandas.ipynb). Para desarrollar la libreta es necesario descargar una tabla de datos en formato csv sobre [transito de bicicletas](/assets/docs/bikes.csv).
 
 
-<!--
 
 ### Actividad 2: Haciendo un cuestionario
 
