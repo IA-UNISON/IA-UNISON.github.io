@@ -10,22 +10,11 @@ image: assets/images/larga3.jpg
 
 ## Python
 
-1. [Distribución anaconda](https://www.continuum.io/downloads)
+1. [Distribución anaconda](https://www.anaconda.com/distribution/)
 
-2. [Tutorial rápido e interactivo (aunque viejito) de Python 2.7](http://www.learnpython.org)
+2. [Libro **Think python** (gratuito y libre)](http://www.greenteapress.com/thinkpython/)
 
-3. [Libro **Think python** (gratuito y libre)](http://www.greenteapress.com/thinkpython/)
-
-4. [Libro de Python para programadores](http://www.diveintopython.net)
-
-5. Y la opinión de la mayoría de los expertos es...
-
-> I found that picking up a problem and solving it in a new language
-> is the best way to learn.  I don't believe in reading - it wastes a
-> huge amount of time, and you can easily end up reading for too long.
-> My advice is to find a problem and set off to solve it with
-> Python. You will learn alot in the process.
-
+3. [Dockerfile con la que se generó la imágen que vamos a usar en el curso](https://raw.githubusercontent.com/IA-UNISON/IA-UNISON.github.io/master/assets/docker/Dockerfile)
 
 ## Introducción a la IA
 
@@ -78,4 +67,4 @@ image: assets/images/larga3.jpg
 
 1. [Algoritmos fundamentales de aprendizaje supervisado](https://www.dropbox.com/s/qiq2c85cle9ydb6/Chapter3.pdf?dl=0)
 
-2. [Curso *Learning from data* de Y. S. Abbu-Mostafa](http://work.caltech.edu/telecourse.html). En mi opinión en mejor MOOC de aprendizaje automñatico, una buena combinación entre teoría y práctica. Bastante retador. 
+2. [Curso *Learning from data* de Y. S. Abbu-Mostafa](http://work.caltech.edu/telecourse.html). En mi opinión en mejor MOOC de aprendizaje automñatico, una buena combinación entre teoría y práctica. Bastante retador.

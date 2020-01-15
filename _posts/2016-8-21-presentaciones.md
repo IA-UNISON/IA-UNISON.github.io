@@ -14,7 +14,8 @@ le doy el crédito correspondiente a quien las hizo.
 
 2. [Agentes inteligentes](https://github.com/IA-UNISON/material/raw/master/presentaciones/Agentes_inteligentes.pdf). Esta presentación es un extracto de la presentación de Russell que viene en la [página de AIMA](http://aima.eecs.berkeley.edu).
 
-3. Búsquedas locales.
+3. [Contenedores Docker](https://ciencia-datos-unison.github.io/taller-BD/docker/intro-docker.slides.html#/). Presentación que forma parte de un cursito que impartí en marzo de 2019.
+
 
 4. [Planeación (búsquedas informadas)](https://github.com/IA-UNISON/material/raw/master/presentaciones/busquedas.pdf). Presentación de Dan Klein para el curso de IA de Berkeley (usada en otras Universidades).
 
@@ -27,6 +28,3 @@ le doy el crédito correspondiente a quien las hizo.
 8. [Introducción a las SVM](http://ia-unison.github.io/material/presentaciones/svm_presentacion.pdf) Presentación ya bastante vieja pero sigue siendo útil.
 
 9. [K-medias](http://ia-unison.github.io/material/presentaciones/kmedias.pdf). Yo creo la presentación más viejita, pero es que las K medias no han cambiado en todo este tiempo.
-
-
-
