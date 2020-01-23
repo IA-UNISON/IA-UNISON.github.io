@@ -18,8 +18,18 @@ image: assets/images/larga3.jpg
 
 ## Introducción a la IA
 
-1. [Video introductorio a la IA (UC Berkeley)](https://youtu.be/W1S-HSakPTM?t=23m23s)
-3. [El artículo original de Turing](http://www.csee.umbc.edu/courses/471/papers/turing.pdf)
+1. [El artículo original de Turing](http://www.csee.umbc.edu/courses/471/papers/turing.pdf)
+2. [La propuesta que dio origen al nombre *Inteligencia Artificial*](https://www.aaai.org/ojs/index.php/aimagazine/article/view/1904/1802)
+
+## Agentes Inteligentes
+
+1. [Un ejemplito de agentes inteligentes en *python*]((https://raw.githubusercontent.com/IA-UNISON/IA-UNISON.github.io/master/assets/docs/agentes_inteligentes.zip))
+
+## Búsquedas no informadas
+
+1. [Notas sobre búsquedas del curso de Berkeley (2019)](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/notes/note01.pdf). Un buen compendio de información, aunque es muy superior el capítulo 3 de [AIMA](http://aima.cs.berkeley.edu/).
+
+<!-- 
 
 ## Agentes inteligentes
 
@@ -68,3 +78,5 @@ image: assets/images/larga3.jpg
 1. [Algoritmos fundamentales de aprendizaje supervisado](https://www.dropbox.com/s/qiq2c85cle9ydb6/Chapter3.pdf?dl=0)
 
 2. [Curso *Learning from data* de Y. S. Abbu-Mostafa](http://work.caltech.edu/telecourse.html). En mi opinión en mejor MOOC de aprendizaje automñatico, una buena combinación entre teoría y práctica. Bastante retador.
+
+-->
