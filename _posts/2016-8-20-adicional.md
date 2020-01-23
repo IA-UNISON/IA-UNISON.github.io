@@ -23,7 +23,7 @@ image: assets/images/larga3.jpg
 
 ## Agentes Inteligentes
 
-1. [Un ejemplito de agentes inteligentes en *python*]((https://raw.githubusercontent.com/IA-UNISON/IA-UNISON.github.io/master/assets/docs/agentes_inteligentes.zip))
+1. [Un ejemplito de agentes inteligentes en *python*](https://raw.githubusercontent.com/IA-UNISON/IA-UNISON.github.io/master/assets/docs/agentes_inteligentes.zip)
 
 ## Búsquedas no informadas
 
