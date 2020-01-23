@@ -26,7 +26,10 @@ el entorno de trabajo. La estructura de los proyectos se puede consultar [aqui](
 Es importante recordar que es necesaria una calificación aprobatoria en esta evaluación
 de competencias para aprobar el curso.
 
-
+1. [Proyecto 0: Uso de python y el autoevaluador](http://inst.eecs.berkeley.edu/~cs188/fa19/project0/).
+   **Fecha de entrega: Lunes 27 de enero de 2020**. Este miniproyecto es muy sencillo, es para que se 
+   familiaricen con *python*, *conda* y que ejecuten el autoevaluador. No debería haber mucho problema
+   para realizarlo.
 
 <!--
 ## Como cargar, modificar y entregar las actividades
