@@ -30,6 +30,9 @@ de competencias para aprobar el curso.
    **Fecha de entrega: Lunes 27 de enero de 2020**. Este miniproyecto es muy sencillo, es para que se 
    familiaricen con *python*, *conda* y que ejecuten el autoevaluador. No debería haber mucho problema
    para realizarlo.
+   
+2. [Proyecto 1: Uso de python y el autoevaluador](http://inst.eecs.berkeley.edu/~cs188/fa19/project1/).
+   **Fecha de entrega: Lunes 17 de febrero de 2020**. En este proyecto lo van a uno llevando de la mano en el desarrollo de búsquedas no informadas e informadas, hasta el final donde hay que usar mucha creatividad para las heurísticas del último problema.
 
 <!--
 ## Como cargar, modificar y entregar las actividades
