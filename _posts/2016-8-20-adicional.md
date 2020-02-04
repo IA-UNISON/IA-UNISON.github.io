@@ -31,6 +31,13 @@ image: assets/images/larga3.jpg
 
 2. [Un ejemplo de búsquedas no informadas en *python*](https://raw.githubusercontent.com/IA-UNISON/IA-UNISON.github.io/master/assets/docs/busquedas-no-informadas.zip).
 
+## Búsquedas informadas
+
+1. [El algoritmo A* de Wikipedia (claro y sin errores)](https://en.wikipedia.org/wiki/A*_search_algorithm)
+
+2. [Una presentación bastante clara de la U. de Sevilla de búsquedas informadas](http://ia-unison.github.io/material/presentaciones/modelos_busquedas.pdf)
+
+
 <!-- 
 
 ## Agentes inteligentes
