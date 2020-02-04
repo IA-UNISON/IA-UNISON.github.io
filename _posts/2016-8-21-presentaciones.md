@@ -14,7 +14,10 @@ le doy el crédito correspondiente a quien las hizo.
 
 2. [Contenedores Docker](https://ciencia-datos-unison.github.io/taller-BD/docker/intro-docker.slides.html#/). Presentación que forma parte de un cursito que impartí en marzo de 2019.
 
-3. Busquedas informadas ([ppt](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec2.pptx), [pdf](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec2.pdf)]. Presentación desarrollada para el curso *Artificial Intelligence (cs188)* de la Universidad de Berkeley. La presentación se basa fuertemente en [otra presentación](https://github.com/IA-UNISON/material/raw/master/presentaciones/busquedas.pdf), realizada por al anterior profesor de Berkeley (Dan Klein) y utilizada por P. Norvig en su famoso MOOC. La versión en *ppt* hace diferencia ya que se pueden ver las animaciones.
+3. **Busquedas no informadas** ([ppt](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec2.pptx), [pdf](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec2.pdf)]. Presentación desarrollada para el curso *Artificial Intelligence (cs188)* de la Universidad de Berkeley. La presentación se basa fuertemente en [otra presentación](https://github.com/IA-UNISON/material/raw/master/presentaciones/busquedas.pdf), realizada por al anterior profesor de Berkeley (Dan Klein) y utilizada por P. Norvig en su famoso MOOC. La versión en *ppt* hace diferencia ya que se pueden ver las animaciones.
+
+4. **Busquedas informadas** ([ppt](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec3.pptx), [pdf](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec3.pdf)]. Presentación desarrollada para el curso *Artificial Intelligence (cs188)* de la Universidad de Berkeley. La presentación se basa fuertemente en [otra presentación](https://github.com/IA-UNISON/material/raw/master/presentaciones/busquedas.pdf), realizada por al anterior profesor de Berkeley (Dan Klein) y utilizada por P. Norvig en su famoso MOOC. La versión en *ppt* hace diferencia ya que se pueden ver las animaciones.
+
 
 
 <!--
