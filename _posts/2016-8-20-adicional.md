@@ -29,13 +29,16 @@ image: assets/images/larga3.jpg
 
 1. [Notas sobre búsquedas del curso de Berkeley (2019)](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/notes/note01.pdf). Un buen compendio de información, aunque es muy superior el capítulo 3 de [AIMA](http://aima.cs.berkeley.edu/).
 
-2. [Un ejemplo de búsquedas no informadas en *python*](https://raw.githubusercontent.com/IA-UNISON/IA-UNISON.github.io/master/assets/docs/busquedas-no-informadas.zip).
+2. [Un ejemplo de búsquedas no informadas en *python*.](https://raw.githubusercontent.com/IA-UNISON/IA-UNISON.github.io/master/assets/docs/busquedas-no-informadas.zip).
 
 ## Búsquedas informadas
 
-1. [El algoritmo A* de Wikipedia (claro y sin errores)](https://en.wikipedia.org/wiki/A*_search_algorithm)
+1. [El algoritmo A* de Wikipedia (claro y sin errores).](https://en.wikipedia.org/wiki/A*_search_algorithm)
 
-2. [Una presentación bastante clara de la U. de Sevilla de búsquedas informadas](http://ia-unison.github.io/material/presentaciones/modelos_busquedas.pdf)
+2. [Una presentación bastante clara de la U. de Sevilla de búsquedas informadas.](http://ia-unison.github.io/material/presentaciones/modelos_busquedas.pdf)
+
+3. [La heurística más famosa para resolver el cubo de Rubik con A*.](https://www.cs.princeton.edu/courses/archive/fall06/cos402/papers/korfrubik.pdf)
+
 
 
 <!-- 
@@ -68,9 +71,9 @@ image: assets/images/larga3.jpg
 ## Búsquedas informadas
 
 
-1. [El algoritmo A* de Wikipedia (claro y sin errores)](https://en.wikipedia.org/wiki/A*_search_algorithm)
+1. [El algoritmo A* de Wikipedia (claro y sin errores).](https://en.wikipedia.org/wiki/A*_search_algorithm)
 
-2. [Una presentación bastante clara de la U. de Sevilla de búsquedas informadas](http://ia-unison.github.io/material/presentaciones/modelos_busquedas.pdf)
+2. [Una presentación bastante clara de la U. de Sevilla de búsquedas informadas.](http://ia-unison.github.io/material/presentaciones/modelos_busquedas.pdf)
 
 
 
