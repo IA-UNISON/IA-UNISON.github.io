@@ -34,6 +34,11 @@ los temas vistos.
 
 ### [Actividad 4: Búsquedas informadas]({% post_url 2015-1-7-continua7 %})
 
+### [Actividad 5: Planteamiento de un CSP]({% post_url 2015-1-5-continua5 %})
+
+### [Actividad 6: Inventando un algoritmo metaheurístico]({% post_url 2015-1-6-continua6 %})
+
+
 <!--
 ### [Actividad 4: Satisfacción de restricciones]({% post_url 2015-1-4-continua4 %})
 
