@@ -39,11 +39,13 @@ image: assets/images/larga3.jpg
 
 3. [La heurística más famosa para resolver el cubo de Rubik con A*.](https://www.cs.princeton.edu/courses/archive/fall06/cos402/papers/korfrubik.pdf)
 
-4. 2. [Un ejemplo de búsquedas no informadas en *python*.](https://raw.githubusercontent.com/IA-UNISON/IA-UNISON.github.io/master/assets/docs/busquedas-informadas.zip).
+4.[Un ejemplo de búsquedas informadas en *python* (el 8 puzzle).](https://raw.githubusercontent.com/IA-UNISON/IA-UNISON.github.io/master/assets/docs/busquedas-informadas.zip).
 
 ## Satisfacción de restricciones
 
 1. [Notas sobre búsquedas del curso de Berkeley (2019)](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/notes/note02.pdf). Un buen compendio de información, aunque breve.
+
+2. [Un ejemplo de satisfacción de restricciones en *python* (las n--reinas).](https://raw.githubusercontent.com/IA-UNISON/IA-UNISON.github.io/master/assets/docs/csp.zip).
 
 
 
