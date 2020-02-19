@@ -21,7 +21,7 @@ le doy el crédito correspondiente a quien las hizo.
 
 5. **Satisfacción de restricciones** ([ppt lec4](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec4.pptx) y [ppt lec5](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec5.pptx), [pdf lec4](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec4.pdf)] y [pdf lec5](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec5.pdf)]. Presentaciones desarrollada para el curso *Artificial Intelligence (cs188)* de la Universidad de Berkeley. 
 
-
+6. **Búsquedas con adversarios** ([ppt](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec6.pptx), [pdf](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec6.pdf)). Presentaciones desarrollada para el curso *Artificial Intelligence (cs188)* de la Universidad de Berkeley. 
 
 <!--
 
