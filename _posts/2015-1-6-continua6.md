@@ -22,15 +22,19 @@ En la siguiente imagen de wikipedia se puede observar una clasificación general
 
 ## 2. Planteamiento del problema
 
-Una vez que se realizó una revisión rápida de algunos algoritmos o su inspiración, cada alumno, o por equipos deberá proponer un algoritmo basado en una metaheurística diferente (utilizando alguna metáfora aunque sea muy forzada).
+Una vez que se realizó una revisión rápida de algunos algoritmos o su inspiración, por equipos (o individualmente) se deberá proponer un algoritmo basado en una metaheurística inventada (utilizando alguna metáfora aunque sea muy forzada). Lo importante aqui es tener en cuenta dos detalles: la aleatoreidad en la búsqueda y guardar siempre el mejor mínimo encontrado hasta el momento. 
+
+Sean creativos, no es importante su funcionalidad, solo reforzar los principios básicos en los que se basan las búsquedas locales con metaheurísticas.
 
 Se debe de presentar: 
 
-1. Un pseudocódigo o un diagrama de flujo y en términos generales como funciona. 
+1. Una descripción, un pseudocódigo o un diagrama de flujo que muestre en términos generales como funcionaría el algoritmo. 
 
 2. Cuales son los parámetros que puede modificar el usuario.
 
 3. Las razones por las que piensas que la probabilidad que el algoritmo encuentre un mínimo global tiende a 1 conforme se realizan iteraciones, si los parámetros de ajusta están bien seleccionados. 
 
-Por supuesto, el reporte debe de ser enviado en $\LaTeX$, y se anexarán a este *post*.
+Por supuesto, el reporte debe de ser enviado en $\LaTeX$.
+
+Compartan información e ideas. Utilicen por favor el foro de este post para compartir ideas de posbles metaheurísticas y dudas.
 
