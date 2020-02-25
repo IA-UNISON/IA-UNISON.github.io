@@ -1,20 +1,19 @@
 ---
 layout: post
-title: Busquedas no informadas e informadas
+title: Satisfacción de restricciones: resolviendo Sudokus
 description: Actividad de evaluación continua
 comments: true
 mathjax: true
 ---
 
-## Dos cositas a resolver
+## A resolver los Sudokus más dificiles del mundo
 
-Desarrolla los ejercicios que se encuentran en el documento de [evaluación
-contínua 4](/assets/docs/continua_6_2019.pdf), la cual era la evaluación continua 6 en el semestre 2019-2.
+En esta actividad vamos a utilizar los [modulos de python que vimos en clase para CSP](/assets/docs/csp.zip).
+y los vamos a completar con el archivo [sudoku.py](/assets/docs/sudoku.py). Lo que hay que hacer es lo siguiente:
 
-Para completar el cuadro, desarrolla los [problemas de búsquedas no informadas del curso de Berkeley](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/section/sec1.pdf). No veas las soluciones, así no tiene chiste. Aqui lo que cuenta es el esfuerzo de resolverlo y que nos permita saber si avanzamos al siguiente tema. 
+1. Completa en el modulo `csp.py` el programa para poder realizar la satisfacción de restricciones utilizando el algoritmo de arco-consistencia *AC-3*. Verifica que funcione utilizando el problema de las *n-reinas*.
 
-Las respuestas deben ser realizadas en forma individual. Una vez que todos hayan mandado sus respuestas, vamos a discutir
-las respuestas propuestas en clase. Recuerda que en estos casos en la mayoría de las preguntas no hay respuesta correcta única.
+2. Modifica el modulo `sudoku.py` para que funcione. Es necesario establecer los *dominios* de las variables, sus *vecinos* y sus *restricciones*. Verifica ejecutando el mismo modulo. Ahí veras la solucion de los dos Sudokus considerados los más dificiles para resolver por un humano (puedes intentar hacerlos en papel por diversión).
 
 Cualquier duda o comentario, por favor agregarlo en los comentarios del post. 
 Recuerda que todo comentario podrá ayudar a tus compañeros de este semestre o el próximo.
