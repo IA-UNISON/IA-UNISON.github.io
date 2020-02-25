@@ -33,6 +33,10 @@ de competencias para aprobar el curso.
    
 2. [Proyecto 1: Uso de python y el autoevaluador](http://inst.eecs.berkeley.edu/~cs188/fa19/project1/).
    **Fecha de entrega: Lunes 17 de febrero de 2020**. En este proyecto lo van a uno llevando de la mano en el desarrollo de búsquedas no informadas e informadas, hasta el final donde hay que usar mucha creatividad para las heurísticas del último problema.
+   
+3. [Miniconcurso para ganarse unos stickers](http://inst.eecs.berkeley.edu/~cs188/fa19/minicontest1/) **Fecha de entrega retrasada al 6 de marzo de 2020 por motivo de la SNIDM**.
+
+4. [Proyecto 2: Minimax, expectimax, y multiagentes](http://inst.eecs.berkeley.edu/~cs188/fa19/project2/). En este proyecto vamos a repasar las busquedas en entornos multiagentes utilizando tanto minimax como expectimax. ¿Que será más inteligente, pacman o los fantasmas?. **Fecha de entrega 10 de marzo 2020**.
 
 <!--
 ## Como cargar, modificar y entregar las actividades
