@@ -23,6 +23,8 @@ le doy el crédito correspondiente a quien las hizo.
 
 6. **Búsquedas con adversarios** ([ppt1](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec6.pptx) y [ppt2](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec7.pptx), [pdf1](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec6.pdf) y [pdf2](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec7.pdf)). Presentaciones desarrollada para el curso *Artificial Intelligence (cs188)* de la Universidad de Berkeley. 
 
+7. **Búsquedas con adversarios** ([ppt1](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec8.pptx) y [ppt2](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec9.pptx), [pdf1](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec8.pdf) y [pdf2](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec9.pdf)). Presentaciones desarrollada para el curso *Artificial Intelligence (cs188)* de la Universidad de Berkeley. 
+
 <!--
 
 2. [Agentes inteligentes](https://github.com/IA-UNISON/material/raw/master/presentaciones/Agentes_inteligentes.pdf). Esta presentación es un extracto de la presentación de Russell que viene en la [página de AIMA](http://aima.eecs.berkeley.edu).
