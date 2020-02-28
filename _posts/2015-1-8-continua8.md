@@ -6,6 +6,7 @@ comments: true
 mathjax: true
 ---
 
+
 ## Busquedas con adversarios: Minimax y poda alfa-beta
 
 Desarrolla los ejercicios que se encuentran en el documento de [evaluación
