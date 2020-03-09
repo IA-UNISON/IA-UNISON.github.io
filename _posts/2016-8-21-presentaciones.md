@@ -1,5 +1,5 @@
----
-layout: post
+--- 
+layout: post 
 title: Presentaciones
 description: Presentaciones a utilizar en clase
 comments: false
