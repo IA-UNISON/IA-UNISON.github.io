@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: post 
 title: Evaluación de competencias
 description: Prácticas de evaluación de competencias
-comments: false
+comments: false 
 image: assets/images/larga2.jpg
 ---
 
