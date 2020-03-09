@@ -3,7 +3,6 @@ layout: post
 title: Satisfacción de restricciones: resolviendo Sudokus
 description: Actividad de evaluación continua
 comments: true
-mathjax: true
 ---
 
 ## A resolver los Sudokus más dificiles del mundo
