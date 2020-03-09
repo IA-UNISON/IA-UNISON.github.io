@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post 
 title: Evaluación continua
 description: Actividades de evaluación continua
 mathjax: true
