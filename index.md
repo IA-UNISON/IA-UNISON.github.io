@@ -7,7 +7,6 @@ image: null
 author: null
 ---
 
-
 *María de los Remedios Alicia Rodriga Varo y Uranga (de [wikipedia](https://es.wikipedia.org/wiki/Remedios_Varo) )* (Anglès, Gerona, España, 16 de diciembre de 1908 – Ciudad de México, 8 de octubre de 1963), conocida como Remedios Varo, fue una pintora surrealista, escritora y artista gráfica española exiliada política en México primero y más tarde naturalizada mexicana. Fue una de las primeras mujeres que estudiaron en la Real Academia de Bellas Artes de San Fernando de Madrid. En 1932 se estableció en Barcelona donde trabajó como diseñadora publicitaria y se sumó al grupo surrealista catalán Logicofobista. En 1937 viajó a París junto al poeta surrealista francés Benjamin Péret y en 1941 con la llegada de los nazis a la capital francesa, se exilió a México. Nunca regresó a España. La obra de Varo evoca un mundo surgido de su imaginación donde se mezcla lo científico, lo místico, lo esotérico y lo mágico.
 
 Su obra completa está teñida de una atmósfera de misticismo, plasmado en las figuras representativas del mundo secular moderno. Su pintura está puntualizada por un marcado interés por la iconografía científica, por ello años después las obras de la pintora han sido retomadas cada vez con más frecuencia en la literatura de divulgación.
