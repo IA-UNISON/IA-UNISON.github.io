@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Satisfacción de restricciones: resolviendo Sudokus
+title: Satisfacción de restricciones (resolviendo Sudokus)
 description: Actividad de evaluación continua
 comments: true
 ---
