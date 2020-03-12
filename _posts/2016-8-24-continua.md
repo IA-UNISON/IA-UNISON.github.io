@@ -40,6 +40,10 @@ los temas vistos.
 
 ### [Actividad 7: Resolviendo Sudokus]({% post_url 2015-1-7-continua7 %})
 
+### [Actividad 8: Minimax y poda $\alpha$-$\beta$]({% post_url 2015-1-8-continua8 %})
+
+### [Actividad 9: Ejercicios sobre MDPs]({% post_url 2015-1-9-continua9 %})
+
 
 <!--
 ### [Actividad 4: Satisfacción de restricciones]({% post_url 2015-1-4-continua4 %})
