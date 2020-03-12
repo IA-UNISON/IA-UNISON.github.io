@@ -51,7 +51,12 @@ image: assets/images/larga3.jpg
 
 1. [Notas sobre juegos y búsquedas con adversario del curso de Berkeley (2019)](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/notes/note03.pdf). Un buen compendio de información, aunque breve.
 
-2. [Un ejemplo de búsquedas con adversarios en *python* (el *gato* y el *conecta 4*).](https://raw.githubusercontent.com/IA-UNISON/IA-UNISON.github.io/master/assets/docs/busqueda-adversarios.zip).
+2. [Un ejemplo de búsquedas con adversarios en *python* (el *gato* y el *conecta 4*)](https://raw.githubusercontent.com/IA-UNISON/IA-UNISON.github.io/master/assets/docs/busqueda-adversarios.zip).
+
+## Procesos de Decisión de Markov y programación dinámica
+
+1. [Notas sobre MDPs del curso de Berkeley (2019)](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/notes/note04.pdf).
+
 
 <!-- 
 
