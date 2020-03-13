@@ -57,6 +57,11 @@ image: assets/images/larga3.jpg
 
 1. [Notas sobre MDPs del curso de Berkeley (2019)](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/notes/note04.pdf).
 
+2. [El libro de Sutton y Barto de aprendizaje por refuerzo](http://incompleteideas.net/book/RLbook2018.pdf). Los caítulos 3 (MDPs) y 4 (programación dinámica) tienen una muy buena introducción a los algoritmos de iteración de valor e iteración de política.
+
+3. [Codigo en python para los problemas del capítulo 4 del libro de Sutton y Barto](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction/tree/master/chapter04). En el libro se pueden ver los problemas. El mundo cudriculado es de especial interés en el uso de los algoritomos, mientras que el problema de *Jack's car rental* ejemplifica muy claramente lo complicado que es establecer un modelo MPD para un problema medio complejo.
+
+
 
 <!-- 
 
