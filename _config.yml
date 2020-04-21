@@ -18,7 +18,7 @@ phone: (662) 259-2155
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 7
 
 # contact form settings
 form_url: https://formspree.io/julio.waissman@unison.mx # endpoint URL to receive contact form submissions
