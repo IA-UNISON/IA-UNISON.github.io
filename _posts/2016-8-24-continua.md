@@ -26,6 +26,9 @@ actividades para realizar en horas extra clase. La discusión de lo que se ha
 hecho en éstas actividades es muy importante para completar la comprensión de
 los temas vistos.
 
+
+<!--
+
 ### [Actividad 1: Programación en python]({% post_url 2015-1-1-continua1 %})
 
 ### [Actividad 2: Introducción y motivación]({% post_url 2015-1-2-continua2 %})
@@ -45,7 +48,7 @@ los temas vistos.
 ### [Actividad 9: Ejercicios sobre MDPs]({% post_url 2015-1-9-continua9 %})
 
 
-<!--
+
 ### [Actividad 4: Satisfacción de restricciones]({% post_url 2015-1-4-continua4 %})
 
 ### [Actividad 5: Planteamiento de un CSP]({% post_url 2015-1-5-continua5 %})
