@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Evaluación de competencias
-description: Prácticas de evaluación de competencias
+description: Mini proyectos de evaluación de competencias
 comments: false 
 image: assets/images/larga2.jpg
 ---
@@ -13,30 +13,19 @@ aplicación práctica directamente, la idea general es que estas tareas den luz
 suficiente para entender donde y como aplicar los conocimientos de la materia en
 aplicaciones concretas.
 
-En este semestre, las primeras actividades de competencias las tomaremos del
-curso de [Inteligencia Artificial de Berkeley](http://inst.eecs.berkeley.edu/~cs188/fa19/),
-en el cual hay un esquema de 5 proyectos basados en el juego de PACMAN. 
+En este curso vamos a basarnos en los proyectos propuestos por el[curso impartido el semestre pasado en Stanford](https://stanford-cs221.github.io/autumn2021/#coursework), las cuales se pueden dividir como sigue:
 
-En este marco se encuentran 5 proyectos (mas un proycto de introducción y dos minicompetencias por
-puntos extas). Todos los proyectos se encuentran programados en *python* 3.6 sin el uso de
-bibliotecas especializadas. Se recomienda ampliamente utilizar la distribución Anaconda con un
-entorno virtual en python 3.6. Se dan instrucciones en el proyecto 0 para establecer
-el entorno de trabajo. La estructura de los proyectos se puede consultar [aqui](http://inst.eecs.berkeley.edu/~cs188/fa19/projects/).
+- Introducción:[fundations](https://stanford-cs221.github.io/autumn2021/assignments/foundations/index.html)
+- Aprendizaje automatico: [clasificación de sentimientos](https://stanford-cs221.github.io/autumn2021/assignments/sentiment/index.html)
+- Búsquedas: [reconstrucción de texto](https://stanford-cs221.github.io/autumn2021/assignments/reconstruct/index.html)
+- Aprendizaje por refuerzo: [Black Jack](https://stanford-cs221.github.io/autumn2021/assignments/blackjack/index.html)
+- Juegos: [Pacman](https://stanford-cs221.github.io/autumn2021/assignments/pacman/index.html)
+- Satisfacción de restricciones: [horarios](https://stanford-cs221.github.io/autumn2021/assignments/scheduling/index.html)
+- Redes bayesianas: [seguimiento de vehículo](https://stanford-cs221.github.io/autumn2021/assignments/car/index.html)
+- Lógica: [lógica y lenguajes](https://stanford-cs221.github.io/autumn2021/assignments/logic/index.html)   
 
-Es importante recordar que es necesaria una calificación aprobatoria en esta evaluación
-de competencias para aprobar el curso.
+La última actividad es tentativa, dependiendo de la velocidad a la que avancemos en el resto del curso. Todos los proyectos vienen con un autoevaluador que permite saber si se completó o no la tarea. Igualmente, algunos proyectos tienen una componente de concurso (por ejemplo, inventando heurísticas) lo que permite otorgar puntos extras a los mejores resultados.
 
-1. [Proyecto 0: Uso de python y el autoevaluador](http://inst.eecs.berkeley.edu/~cs188/fa19/project0/).
-   **Fecha de entrega: Lunes 27 de enero de 2020**. Este miniproyecto es muy sencillo, es para que se 
-   familiaricen con *python*, *conda* y que ejecuten el autoevaluador. No debería haber mucho problema
-   para realizarlo.
-   
-2. [Proyecto 1: Uso de python y el autoevaluador](http://inst.eecs.berkeley.edu/~cs188/fa19/project1/).
-   **Fecha de entrega: Lunes 17 de febrero de 2020**. En este proyecto lo van a uno llevando de la mano en el desarrollo de búsquedas no informadas e informadas, hasta el final donde hay que usar mucha creatividad para las heurísticas del último problema.
-   
-3. [Miniconcurso para ganarse unos stickers](http://inst.eecs.berkeley.edu/~cs188/fa19/minicontest1/) **Fecha de entrega retrasada al 6 de marzo de 2020 por motivo de la SNIDM**.
-
-4. [Proyecto 2: Minimax, expectimax, y multiagentes](http://inst.eecs.berkeley.edu/~cs188/fa19/project2/). En este proyecto vamos a repasar las busquedas en entornos multiagentes utilizando tanto minimax como expectimax. ¿Que será más inteligente, pacman o los fantasmas?. **Fecha de entrega 10 de marzo 2020**.
 
 <!--
 ## Como cargar, modificar y entregar las actividades
