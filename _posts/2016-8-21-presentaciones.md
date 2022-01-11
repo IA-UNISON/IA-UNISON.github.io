@@ -10,6 +10,8 @@ Algunas presentaciones son hechas por mi, otras son una parte hechas
 por mi, y parte tomadas prestadas. En todos los casos, siempre
 le doy el crédito correspondiente a quien las hizo.
 
+1. [Selección de la presentación inicial  del curso de Stanford](https://github.com/IA-UNISON/material/raw/master/presentaciones/Intro_Stanford.pdf)
+
 1. [Introducción a la I.A.](https://github.com/IA-UNISON/material/raw/master/presentaciones/Intro_IA.pdf)
 
 2. [Contenedores Docker](https://ciencia-datos-unison.github.io/taller-BD/docker/intro-docker.slides.html#/). Presentación que forma parte de un cursito que impartí en marzo de 2019.
