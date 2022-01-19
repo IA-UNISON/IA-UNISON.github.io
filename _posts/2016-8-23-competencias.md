@@ -27,6 +27,11 @@ En este curso vamos a basarnos en los proyectos propuestos por el[curso impartid
 La última actividad es tentativa, dependiendo de la velocidad a la que avancemos en el resto del curso. Todos los proyectos vienen con un autoevaluador que permite saber si se completó o no la tarea. Igualmente, algunos proyectos tienen una componente de concurso (por ejemplo, inventando heurísticas) lo que permite otorgar puntos extras a los mejores resultados.
 
 
+### Introducción
+
+- Fecha de entrega: lunes 31 de ener de 2022
+- Repaso de problemas teóricos: martes 25 de enero
+
 <!--
 ## Como cargar, modificar y entregar las actividades
 

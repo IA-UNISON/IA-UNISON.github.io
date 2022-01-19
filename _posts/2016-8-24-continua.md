@@ -27,10 +27,11 @@ hecho en éstas actividades es muy importante para completar la comprensión de
 los temas vistos.
 
 
+
+
+### [Actividad 1: Ética en la Inteligencia Artificial]({% post_url 2015-1-1-continua1 %})
+
 <!--
-
-### [Actividad 1: Programación en python]({% post_url 2015-1-1-continua1 %})
-
 ### [Actividad 2: Introducción y motivación]({% post_url 2015-1-2-continua2 %})
 
 ### [Actividad 3: Ética en la Inteligencia Artificial]({% post_url 2015-1-3-continua3 %})
