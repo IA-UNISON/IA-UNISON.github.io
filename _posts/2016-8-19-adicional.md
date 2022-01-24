@@ -27,6 +27,9 @@ image: assets/images/larga3.jpg
 
 2. Clasificación lineal, [ejemplito](https://raw.githubusercontent.com/IA-UNISON/IA-UNISON.github.io/master/assets/docs/gradientDescentHinge.py).
 
+3. SGD (stochastic gradient descent), [ejemplito](https://raw.githubusercontent.com/IA-UNISON/IA-UNISON.github.io/master/assets/docs/stochasticGradientDescent.py).
+
+
 ## Agentes Inteligentes
 
 1. [Un ejemplito de agentes inteligentes en *python*](https://raw.githubusercontent.com/IA-UNISON/IA-UNISON.github.io/master/assets/docs/agentes_inteligentes.zip).
