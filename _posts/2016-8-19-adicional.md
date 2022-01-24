@@ -14,12 +14,18 @@ image: assets/images/larga3.jpg
 
 2. [Libro **Think python** (gratuito y libre)](http://www.greenteapress.com/thinkpython/)
 
-3. [Dockerfile con la que se generó la imágen que vamos a usar en el curso](https://raw.githubusercontent.com/IA-UNISON/IA-UNISON.github.io/master/assets/docker/Dockerfile)
-
 ## Introducción a la IA
 
 1. [El artículo original de Turing](http://www.csee.umbc.edu/courses/471/papers/turing.pdf).
+
 2. [La propuesta que dio origen al nombre *Inteligencia Artificial*](https://www.aaai.org/ojs/index.php/aimagazine/article/view/1904/1802).
+
+
+## Aprendizaje automático
+
+1. Regresión lineal, [ejemplito](https://raw.githubusercontent.com/IA-UNISON/IA-UNISON.github.io/master/assets/docs/gradientDescent.py).
+
+2. Clasificación lineal, [ejemplito](https://raw.githubusercontent.com/IA-UNISON/IA-UNISON.github.io/master/assets/docs/gradientDescentHinge.py).
 
 ## Agentes Inteligentes
 

@@ -2,8 +2,8 @@
 layout: post
 title: 1. Curso sobre ética en la IA
 description: Actividad de evaluación continua 1
-comments: true
-mathjax: true
+comments: false
+mathjax: false
 ---
 
 

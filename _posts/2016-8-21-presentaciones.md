@@ -12,20 +12,29 @@ le doy el crédito correspondiente a quien las hizo.
 
 1. [Selección de la presentación inicial  del curso de Stanford](https://github.com/IA-UNISON/material/raw/master/presentaciones/Intro_Stanford.pdf)
 
-1. [Introducción a la I.A.](https://github.com/IA-UNISON/material/raw/master/presentaciones/Intro_IA.pdf)
-
-2. [Contenedores Docker](https://ciencia-datos-unison.github.io/taller-BD/docker/intro-docker.slides.html#/). Presentación que forma parte de un cursito que impartí en marzo de 2019.
-
-3. **Busquedas no informadas** ([ppt](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec2.pptx), [pdf](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec2.pdf)]. Presentación desarrollada para el curso *Artificial Intelligence (cs188)* de la Universidad de Berkeley. La presentación se basa fuertemente en [otra presentación](https://github.com/IA-UNISON/material/raw/master/presentaciones/busquedas.pdf), realizada por al anterior profesor de Berkeley (Dan Klein) y utilizada por P. Norvig en su famoso MOOC. La versión en *ppt* hace diferencia ya que se pueden ver las animaciones.
-
-4. **Busquedas informadas** ([ppt](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec3.pptx), [pdf](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec3.pdf)]. Presentación desarrollada para el curso *Artificial Intelligence (cs188)* de la Universidad de Berkeley. La presentación se basa fuertemente en [otra presentación](https://github.com/IA-UNISON/material/raw/master/presentaciones/busquedas.pdf), realizada por al anterior profesor de Berkeley (Dan Klein) y utilizada por P. Norvig en su famoso MOOC. La versión en *ppt* hace diferencia ya que se pueden ver las animaciones.
+2. [Introducción a la I.A.](https://github.com/IA-UNISON/material/raw/master/presentaciones/Intro_IA.pdf)
 
 
-5. **Satisfacción de restricciones** ([ppt lec4](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec4.pptx) y [ppt lec5](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec5.pptx), [pdf lec4](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec4.pdf)] y [pdf lec5](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec5.pdf)]. Presentaciones desarrollada para el curso *Artificial Intelligence (cs188)* de la Universidad de Berkeley. 
+3. [Pequeña introducción al aprendizaje máquina](https://github.com/IA-UNISON/material/raw/master/presentaciones/Intro_ML.pdf)
 
-6. **Búsquedas con adversarios** ([ppt1](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec6.pptx) y [ppt2](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec7.pptx), [pdf1](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec6.pdf) y [pdf2](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec7.pdf)). Presentaciones desarrollada para el curso *Artificial Intelligence (cs188)* de la Universidad de Berkeley. 
 
-7. **Procesos de desición de Markov** ([ppt1](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec8.pptx) y [ppt2](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec9.pptx), [pdf1](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec8.pdf) y [pdf2](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec9.pdf)). Presentaciones desarrollada para el curso *Artificial Intelligence (cs188)* de la Universidad de Berkeley. 
+4. [Regresión lineal](https://github.com/IA-UNISON/material/raw/master/presentaciones/linear-regression.pdf)
+
+5. [Clasificación lineal](https://github.com/IA-UNISON/material/raw/master/presentaciones/linear-classification.pdf)
+
+6. [Descenso de gradiente estocástico](https://github.com/IA-UNISON/material/raw/master/presentaciones/stochastic-gradient-descent.pdf)
+
+
+6. **Busquedas no informadas** ([ppt](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec2.pptx), [pdf](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec2.pdf)]. Presentación desarrollada para el curso *Artificial Intelligence (cs188)* de la Universidad de Berkeley. La presentación se basa fuertemente en [otra presentación](https://github.com/IA-UNISON/material/raw/master/presentaciones/busquedas.pdf), realizada por al anterior profesor de Berkeley (Dan Klein) y utilizada por P. Norvig en su famoso MOOC. La versión en *ppt* hace diferencia ya que se pueden ver las animaciones.
+
+7. **Busquedas informadas** ([ppt](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec3.pptx), [pdf](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec3.pdf)]. Presentación desarrollada para el curso *Artificial Intelligence (cs188)* de la Universidad de Berkeley. La presentación se basa fuertemente en [otra presentación](https://github.com/IA-UNISON/material/raw/master/presentaciones/busquedas.pdf), realizada por al anterior profesor de Berkeley (Dan Klein) y utilizada por P. Norvig en su famoso MOOC. La versión en *ppt* hace diferencia ya que se pueden ver las animaciones.
+
+
+8. **Satisfacción de restricciones** ([ppt lec4](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec4.pptx) y [ppt lec5](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec5.pptx), [pdf lec4](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec4.pdf)] y [pdf lec5](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec5.pdf)]. Presentaciones desarrollada para el curso *Artificial Intelligence (cs188)* de la Universidad de Berkeley. 
+
+9.  **Búsquedas con adversarios** ([ppt1](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec6.pptx) y [ppt2](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec7.pptx), [pdf1](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec6.pdf) y [pdf2](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec7.pdf)). Presentaciones desarrollada para el curso *Artificial Intelligence (cs188)* de la Universidad de Berkeley. 
+
+10. **Procesos de desición de Markov** ([ppt1](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec8.pptx) y [ppt2](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec9.pptx), [pdf1](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec8.pdf) y [pdf2](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec9.pdf)). Presentaciones desarrollada para el curso *Artificial Intelligence (cs188)* de la Universidad de Berkeley. 
 
 <!--
 
