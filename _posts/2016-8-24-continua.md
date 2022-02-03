@@ -31,6 +31,8 @@ los temas vistos.
 
 ### [Actividad 1: Ética en la Inteligencia Artificial]({% post_url 2015-1-1-continua1 %})
 
+### [Actividad 2: Introducción a pandas y numpy]({% post_url 2015-1-2-continua2 %})
+
 <!--
 ### [Actividad 2: Introducción y motivación]({% post_url 2015-1-2-continua2 %})
 
