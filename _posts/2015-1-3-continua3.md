@@ -1,50 +1,28 @@
 ---
 layout: post
-title: 3. Ética en la Inteligencia Artificial
+title: 3. El autobús mágico
 description: Actividad de evaluación continua 3
-comments: true
+comments: false
 mathjax: true
 ---
 
-¿Las máquinas dominarán al mundo? ¿Las máquinas nos controlarán?
-¿Es necesario regular la IA? ¿En que sentido puede ser peligrosa la IA?
 
-Este es un tema que siempre es importante discutir. Después de 
-revisar el material propuesto, por favor escribe un comentario en el post
-sobre el tema y responde al menos a uno de los comentarios de tus compañeros.
+Vamos a plantear un problema para resolver con búsquedas:
 
-Como profesor, agregaré algunos comentarios después sobre temas que me parece
-importante tocar. Responde al menos a uno de mis comentarios.
+Supongamos que quiero trasladarme desde la posición discreta $1$ hasta la posición discreta $N$ en una vía
+recta. Puedo trasladarme de dos maneras:
 
+1. A pie, desde el punto $x$ hasta el punto $x + 1$ en un tiempo de 1 minuto.
+2. Usando un camión mágico, desde el punto $x$ hasta el punto $2x$ con un tiempo de 2 minutos.
 
-#### ¿Quien toma las decisiones?
+Mi problema es establecer un plan para ir desde el punto $1$ hasta el punto $N$ en el menor tiempo posible.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vLo7EywWqc4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+Desarrolla en un archivo `camion-magico.py` lo siguiente:
 
-#### Los robots asesinos
-
-Parecería exagerado si no es porque lo dice el autor del libro que usamos (y una 
-de las voces más autorizadas en IA).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TlO2gcs1YvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
-
-#### Regulación de la IA en el munndo?
-
-Los materiales anteriores nos llevan a pensar que es importante alguna declaración de derechos o una regulación sobre el uso de la IA. en este [artículo de IA-Latam](https://ia-latam.com/2019/02/27/9285/) se discuten algunos criterios, si bien es bastante simplista el artículo.
-
-#### Ética en la IA, los casos donde hay que tener cuidado.
-
-En este video se discute sobre la ética en la inteligencia artificial.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e3vU484bCgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
-
-#### Los limites éticos para la IA
-
-Por ultimo un documental de la televisión alemana sobre los límites éticos de la IA.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sHVwwriaT6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
-
-#### Ahora sí, a comentar
-
-Por favor opinen sobre la ética y la regulación de la IA. ¿Cuales son sus mayores preocupaciones? ¿Como enfrentarlas?
-
+1. ¿Cual es el modelo discreto determinista del proceso? Desarróllalo.
+2. ¿Cual es el problema de búsqueda a resolver? Desarrolla el problema
+3. ¿Cuantos nodos revisa si se utiliza una búsqueda con costo uniforme para encontrar la solución para ir a la posición 31,459.
+4. Propón una heurística para usar en una búsqueda tipo $A^*$ en este problema.
+5. Demuestra (en el mismo archivo, como comentario o como `string`) que la heurística que propones es admisible.
+6. Trata de mostrar si podría (o no) la heurística ser consistente.
+7. ¿Cuantos nodos se exploran usando el algoritmo $A^*$ y la heurística que propones.

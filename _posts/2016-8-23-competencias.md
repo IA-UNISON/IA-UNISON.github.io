@@ -29,8 +29,18 @@ La última actividad es tentativa, dependiendo de la velocidad a la que avancemo
 
 ### Introducción
 
-- Fecha de entrega: lunes 31 de ener de 2022
+- Fecha de entrega: lunes 31 de enero de 2022
 - Repaso de problemas teóricos: martes 25 de enero
+
+## Aprendizaje automático
+
+- Fecha de entrega: 25 de febrero de 2022
+
+## Búsquedas
+
+- Fecha de entrega: 23 de marzo de 2022
+
+
 
 <!--
 ## Como cargar, modificar y entregar las actividades
