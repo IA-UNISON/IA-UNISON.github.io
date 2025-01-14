@@ -6,9 +6,8 @@ comments: false
 image: assets/images/chica3.jpg
 ---
 
-Algunas presentaciones son hechas por mi, otras son una parte hechas
-por mi, y parte tomadas prestadas. En todos los casos, siempre
-le doy el crédito correspondiente a quien las hizo.
+Algunas presentaciones son hechas por mi, muchas van a ser presentaciones que hizo Eduardo, otras son una parte hechas
+por mi, y parte tomadas prestadas. En todos los casos, siempre le doy el crédito correspondiente a quien las hizo.
 
 1. [Selección de la presentación inicial  del curso de Stanford](https://github.com/IA-UNISON/material/raw/master/presentaciones/Intro_Stanford.pdf)
 

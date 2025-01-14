@@ -1,13 +1,13 @@
 ---
 layout: post 
-title: Evaluación continua
-description: Actividades de evaluación continua
+title: Evaluación de conocimientos
+description: Actividades de evaluación de conocimientos
 mathjax: true
 comments: false
 image: assets/images/larga1.jpg
 ---
 
-Como estrategia de evaluación continua, vamos a hacer una serie de actividades
+Como estrategia de evaluación de conocimientos, vamos a hacer una serie de actividades
 de evaluación rápidas todas (o casi todas) las semanas. Algunas de estas
 actividades serán colaborativas y otras serán para desarrollarlas de forma
 individual.
@@ -16,7 +16,7 @@ Conforme vaya avanzando el semestre vamos a ir colocando las actividades que
 estamos realizando. En esta página vamos a mantener una *bitácora* con las
 actividades realizadas y las evaluaciones que vamos realizando.
 
-Las actividades de evaluación continua son trabajos que se espera se realicen en
+Las actividades de evaluación de conocimientos se espera se realicen en
 equipos, o de forma individual con mucha comunicación entre los estudiantes y
 con el profesor (e incluso comentando y asesorándose con otros profesores).
 Estas actividades tienen como objetivo el poder medir (tanto para los
@@ -27,7 +27,7 @@ hecho en éstas actividades es muy importante para completar la comprensión de
 los temas vistos.
 
 
-
+<!--
 
 ### [Actividad 1: Ética en la Inteligencia Artificial]({% post_url 2015-1-1-continua1 %})
 
@@ -35,7 +35,7 @@ los temas vistos.
 
 ### [Actividad 3: El camión mágico]({% post_url 2015-1-3-continua3 %})
 
-<!--
+
 ### [Actividad 2: Introducción y motivación]({% post_url 2015-1-2-continua2 %})
 
 ### [Actividad 3: Ética en la Inteligencia Artificial]({% post_url 2015-1-3-continua3 %})

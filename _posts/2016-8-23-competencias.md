@@ -13,35 +13,6 @@ aplicación práctica directamente, la idea general es que estas tareas den luz
 suficiente para entender donde y como aplicar los conocimientos de la materia en
 aplicaciones concretas.
 
-En este curso vamos a basarnos en los proyectos propuestos por el[curso impartido el semestre pasado en Stanford](https://stanford-cs221.github.io/autumn2021/#coursework), las cuales se pueden dividir como sigue:
-
-- Introducción:[fundations](https://stanford-cs221.github.io/autumn2021/assignments/foundations/index.html)
-- Aprendizaje automatico: [clasificación de sentimientos](https://stanford-cs221.github.io/autumn2021/assignments/sentiment/index.html)
-- Búsquedas: [reconstrucción de texto](https://stanford-cs221.github.io/autumn2021/assignments/reconstruct/index.html)
-- Aprendizaje por refuerzo: [Black Jack](https://stanford-cs221.github.io/autumn2021/assignments/blackjack/index.html)
-- Juegos: [Pacman](https://stanford-cs221.github.io/autumn2021/assignments/pacman/index.html)
-- Satisfacción de restricciones: [horarios](https://stanford-cs221.github.io/autumn2021/assignments/scheduling/index.html)
-- Redes bayesianas: [seguimiento de vehículo](https://stanford-cs221.github.io/autumn2021/assignments/car/index.html)
-- Lógica: [lógica y lenguajes](https://stanford-cs221.github.io/autumn2021/assignments/logic/index.html)   
-
-La última actividad es tentativa, dependiendo de la velocidad a la que avancemos en el resto del curso. Todos los proyectos vienen con un autoevaluador que permite saber si se completó o no la tarea. Igualmente, algunos proyectos tienen una componente de concurso (por ejemplo, inventando heurísticas) lo que permite otorgar puntos extras a los mejores resultados.
-
-
-### Introducción
-
-- Fecha de entrega: lunes 31 de enero de 2022
-- Repaso de problemas teóricos: martes 25 de enero
-
-## Aprendizaje automático
-
-- Fecha de entrega: 25 de febrero de 2022
-
-## Búsquedas
-
-- Fecha de entrega: 23 de marzo de 2022
-
-
-
 <!--
 ## Como cargar, modificar y entregar las actividades
 
