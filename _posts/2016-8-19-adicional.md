@@ -6,7 +6,17 @@ comments: false
 image: assets/images/larga3.jpg
 ---
 
+## Agentes inteligentes
 
+- [El artículo original de Turing](http://www.csee.umbc.edu/courses/471/papers/turing.pdf).
+
+- [La propuesta que dio origen al nombre *Inteligencia Artificial*](https://www.aaai.org/ojs/index.php/aimagazine/article/view/1904/1802).
+
+- [Notas de introducción a la IA de Eduardo Acuña Yeomans](https://proyectoscc.unison.mx/maestros/eduardo/cursos/inar20251/notas/00-IntroIA.html)
+
+- [Notas sobre agentes racionales de Eduardo Acuña Yeomans](https://proyectoscc.unison.mx/maestros/eduardo/cursos/inar20251/problemas/00-AgentesRacionales.pdf)
+
+<!-- 
 
 ## Python
 
@@ -72,7 +82,6 @@ image: assets/images/larga3.jpg
 
 
 
-<!-- 
 
 ## Agentes inteligentes
 

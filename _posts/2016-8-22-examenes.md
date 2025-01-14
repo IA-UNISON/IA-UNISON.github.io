@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Exámenes de conocimientos
-description: Ejemplos de exámenes de conocimientos
+title: Exámenes
+description: Exámenes de otros años
 comments: false 
 image: assets/images/chica2.jpg
 ---

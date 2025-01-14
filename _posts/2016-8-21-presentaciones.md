@@ -9,9 +9,17 @@ image: assets/images/chica3.jpg
 Algunas presentaciones son hechas por mi, muchas van a ser presentaciones que hizo Eduardo, otras son una parte hechas
 por mi, y parte tomadas prestadas. En todos los casos, siempre le doy el crédito correspondiente a quien las hizo.
 
+
+1. [Introducción a la IA](https://github.com/IA-UNISON/material/raw/master/presentaciones/Intro_IA.pdf)
+
+2. [Introducción a la IA](https://proyectoscc.unison.mx/maestros/eduardo/cursos/inar20251/diapositivas/00-IntroIA.pdf) de Eduardo Acuña Yeomans y [la muy interesante pagina del curso que mantiene](https://proyectoscc.unison.mx/maestros/eduardo/cursos/inar20251/)
+
+3. [Agentes inteligentes](https://github.com/IA-UNISON/material/raw/master/presentaciones/Agentes_inteligentes.pdf). Esta presentación es un extracto de la presentación de Russell que viene en la [página de AIMA](http://aima.eecs.berkeley.edu).
+
+
+<!--
 1. [Selección de la presentación inicial  del curso de Stanford](https://github.com/IA-UNISON/material/raw/master/presentaciones/Intro_Stanford.pdf)
 
-2. [Introducción a la I.A.](https://github.com/IA-UNISON/material/raw/master/presentaciones/Intro_IA.pdf)
 
 
 3. [Pequeña introducción al aprendizaje máquina](https://github.com/IA-UNISON/material/raw/master/presentaciones/Intro_ML.pdf)
@@ -45,7 +53,7 @@ por mi, y parte tomadas prestadas. En todos los casos, siempre le doy el crédit
 15. **Búsquedas con adversarios** ([ppt1](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec6.pptx) y [ppt2](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec7.pptx), [pdf1](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec6.pdf) y [pdf2](http://inst.eecs.berkeley.edu/~cs188/fa19/assets/slides/lec7.pdf)). Presentaciones desarrollada para el curso *Artificial Intelligence (cs188)* de la Universidad de Berkeley. 
 
 
-<!--
+
 
 2. [Agentes inteligentes](https://github.com/IA-UNISON/material/raw/master/presentaciones/Agentes_inteligentes.pdf). Esta presentación es un extracto de la presentación de Russell que viene en la [página de AIMA](http://aima.eecs.berkeley.edu).
 
