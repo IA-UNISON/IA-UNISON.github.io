@@ -13,10 +13,10 @@ aplicación práctica directamente, la idea general es que estas tareas den luz
 suficiente para entender donde y como aplicar los conocimientos de la materia en
 aplicaciones concretas.
 
-<!--
+
 ## Como cargar, modificar y entregar las actividades
 
-Las actividades se encuentran como repositorios de github como se ve más abajo.
+Las actividades se encuentran como repositorios de github.
 Es importante notar que, al ser un sistema colaborativo, las actividades, así
 como sus soluciones se encuentran a disposición de todo mundo.
 
@@ -42,18 +42,18 @@ actividad):
 4. En todos los archivos se marca claramente lo que hay que hacer y cuantos
    puntos de la tarea cuenta cada ejercicio.
 
-5. Cada vez que realices cambios a los archivos, comentalos (**commit**) y
-   realiza un **push** o un **sync** a tu repositorio de *GitHub* con el fin de
+5. Cada vez que realices cambios a los archivos, realiza un *commit* y
+   realiza un *push* o un *sync* a tu repositorio de *GitHub* con el fin de
    guardar los cambios realizados. Recuerda que esta es la única evidencia que
    se tiene del avance y el tiempo dedicado a las tareas.
 
 6. Una vez terminada la actividad (o una vez que ya no se piense modificarla
-   más), realiza un **pull request** al repositorio original (el del profesor).
+   más), realiza un *pull request* al repositorio original (el del profesor).
 
 7. La revisión de la actividad se realizará en linea, marcando las cosas que no
    están bien hechas. Lo que no lleve comentario estará bien hecho (ningún
    comentario significa que la tarea está muy bien). Al final de los comentario
-   realizados por el profesor en el **pull request** se agregará un comentario
+   realizados por el profesor en el *pull request* se agregará un comentario
    con a nota final.
 
 8. De acuerdo al tiempo y a la complejidad que eso implique, el profesor podrá
@@ -64,16 +64,18 @@ actividad):
 
 ## Listado de actividades de evaluación de competencias 
 
-Es importante recordar que las actividades del semestre anterior pueden ser
+Es importante recordar que las actividades pueden ser
 modificadas de forma importante, por lo que se recomienda no empezar a realizar
 una actividad, hasta que esté marcada como **disponible** en ésta página. Una
 vez que la actividad esté marcada como **terminada** no se aceptarán nuevos
-*pull request*. Mientras esté la actividad con el estatus de **en proceso de
-modificación** se dejan las ligas a la actividad con el fin que los estudiantes
+*pull request*. Mientras esté la actividad con el estatus de **en proceso de modificación** 
+se dejan las ligas a la actividad con el fin que los estudiantes
 se familiaricen con el nivel de dificultad de las actividades.
 
 1. [Agentes inteligentes](https://github.com/IA-UNISON/1-Agentes-Inteligentes).
-   **disponible.** Fecha límite: *3 de septiembre de 2019*.
+   **en proceso de modificación.** Fecha límite: *24 de enero de 2025*.
+
+<!--
 
 2. [Satisfacción de restricciones](https://github.com/IA-UNISON/3-SatisfaccionRestricciones).
    **disponible.** Fecha límite: *20 de septiembre de 2019*.
@@ -90,9 +92,9 @@ se familiaricen con el nivel de dificultad de las actividades.
 6. [Redes bayesianas](https://github.com/IA-UNISON/6-Naive-Bayes). 
   **disponible.** Fecha límite: *12 de diciembre de 2019*.
 
-7. [Aprendizaje supervisado](https://github.com/IA-UNISON/7-Aprendizaje-Supervisado). 
+1. [Aprendizaje supervisado](https://github.com/IA-UNISON/7-Aprendizaje-Supervisado). 
    **disponible.** Fecha límite: *12 de diciembre de 2019*.
 
-8. [Aprendizaje no supervisado](https://github.com/IA-UNISON/8-Aprendizaje-no-Supervisado). 
+2. [Aprendizaje no supervisado](https://github.com/IA-UNISON/8-Aprendizaje-no-Supervisado). 
     **disponible.** Fecha límite: *12 de diciembre de 2019*.
 --> 
