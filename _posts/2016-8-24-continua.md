@@ -27,10 +27,11 @@ hecho en éstas actividades es muy importante para completar la comprensión de
 los temas vistos.
 
 
+
+
+### [Actividad 1: El juego de imitación imitado]({% post_url 2015-1-1-continua1 %})
+
 <!--
-
-### [Actividad 1: Ética en la Inteligencia Artificial]({% post_url 2015-1-1-continua1 %})
-
 ### [Actividad 2: Introducción a pandas y numpy]({% post_url 2015-1-2-continua2 %})
 
 ### [Actividad 3: El camión mágico]({% post_url 2015-1-3-continua3 %})
