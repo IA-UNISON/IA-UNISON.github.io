@@ -16,13 +16,13 @@ por mi, y parte tomadas prestadas. En todos los casos, siempre le doy el crédit
 
 3. [Agentes inteligentes](https://github.com/IA-UNISON/material/raw/master/presentaciones/Agentes_inteligentes.pdf). Esta presentación es un extracto de la presentación de Russell que viene en la [página de AIMA](http://aima.eecs.berkeley.edu).
 
+4. [Pequeña introducción al aprendizaje máquina](https://github.com/IA-UNISON/material/raw/master/presentaciones/machine_learning.pdf)
 
 <!--
 1. [Selección de la presentación inicial  del curso de Stanford](https://github.com/IA-UNISON/material/raw/master/presentaciones/Intro_Stanford.pdf)
 
 
 
-3. [Pequeña introducción al aprendizaje máquina](https://github.com/IA-UNISON/material/raw/master/presentaciones/Intro_ML.pdf)
 
 
 4. [Regresión lineal](https://github.com/IA-UNISON/material/raw/master/presentaciones/linear-regression.pdf)
