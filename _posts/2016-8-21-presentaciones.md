@@ -23,7 +23,6 @@ por mi, y parte tomadas prestadas. En todos los casos, siempre le doy el crédit
 6. Presentación sobre [árboles de decisión](https://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture11.pdf) de David Sontag (NYU, curso del MIT) sobre árboles de decisión y bosques aleatorios.
 
 
-https://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture11.pdf
 <!--
 1. [Selección de la presentación inicial  del curso de Stanford](https://github.com/IA-UNISON/material/raw/master/presentaciones/Intro_Stanford.pdf)
 
