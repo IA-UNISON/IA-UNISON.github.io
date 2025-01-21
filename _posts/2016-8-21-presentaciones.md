@@ -18,6 +18,12 @@ por mi, y parte tomadas prestadas. En todos los casos, siempre le doy el crédit
 
 4. [Pequeña introducción al aprendizaje máquina](https://github.com/IA-UNISON/material/raw/master/presentaciones/machine_learning.pdf)
 
+5. Presentación sobre [porqué decimos que el aprendizaje supervisado es posible](https://github.com/IA-UNISON/material/raw/master/presentaciones/generalizacion.pdf)
+
+6. Presentación sobre [árboles de decisión](https://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture11.pdf) de David Sontag (NYU, curso del MIT) sobre árboles de decisión y bosques aleatorios.
+
+
+https://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture11.pdf
 <!--
 1. [Selección de la presentación inicial  del curso de Stanford](https://github.com/IA-UNISON/material/raw/master/presentaciones/Intro_Stanford.pdf)
 
