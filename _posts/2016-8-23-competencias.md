@@ -73,7 +73,7 @@ se dejan las ligas a la actividad con el fin que los estudiantes
 se familiaricen con el nivel de dificultad de las actividades.
 
 1. [Agentes inteligentes](https://github.com/IA-UNISON/1-Agentes-Inteligentes).
-   **en proceso de modificación.** Fecha límite: *24 de enero de 2025*.
+   **disponible.** Fecha límite: *24 de enero de 2025*.
 
 <!--
 
