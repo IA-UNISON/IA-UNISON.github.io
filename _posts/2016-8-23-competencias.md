@@ -73,23 +73,26 @@ se dejan las ligas a la actividad con el fin que los estudiantes
 se familiaricen con el nivel de dificultad de las actividades.
 
 1. [Agentes inteligentes](https://github.com/IA-UNISON/1-Agentes-Inteligentes).
-   **disponible.** Fecha límite: *24 de enero de 2025*.
+   **terminada.** Fecha límite: *24 de enero de 2025*.
 
+2. [Aprendizaje supervisado (árboles)](https://github.com/IA-UNISON/2-Aprendizaje). 
+   **en proceso de modificación**. Fecha límite: *A determinar*.
+   
 <!--
 
-2. [Satisfacción de restricciones](https://github.com/IA-UNISON/3-SatisfaccionRestricciones).
+1. [Satisfacción de restricciones](https://github.com/IA-UNISON/3-SatisfaccionRestricciones).
    **disponible.** Fecha límite: *20 de septiembre de 2019*.
 
-3. [Búsquedas locales](https://github.com/IA-UNISON/2-Temple-Simulado). 
+2. [Búsquedas locales](https://github.com/IA-UNISON/2-Temple-Simulado). 
    **disponible.** Fecha límite: *3 de octubre de 2019*.
 
-4. [Búsquedas informadas](https://github.com/IA-UNISON/4-Busquedas-Informadas).
+3. [Búsquedas informadas](https://github.com/IA-UNISON/4-Busquedas-Informadas).
    **disponible.** Fecha límite: *18 de octubre de 2019*.
 
-5. [Búsquedas con adversario](https://github.com/IA-UNISON/5-Busquedas-Adversario). 
+4. [Búsquedas con adversario](https://github.com/IA-UNISON/5-Busquedas-Adversario). 
    **disponible.** Fecha límite: *31 de octubre de 2019*.
 
-6. [Redes bayesianas](https://github.com/IA-UNISON/6-Naive-Bayes). 
+5. [Redes bayesianas](https://github.com/IA-UNISON/6-Naive-Bayes). 
   **disponible.** Fecha límite: *12 de diciembre de 2019*.
 
 1. [Aprendizaje supervisado](https://github.com/IA-UNISON/7-Aprendizaje-Supervisado). 
