@@ -24,6 +24,15 @@ por mi, y parte tomadas prestadas. En todos los casos, siempre le doy el crédit
 
 7. [Sesgo cognitivo en aprendizaje automático](https://github.com/IA-UNISON/material/raw/master/presentaciones/sesgoml.pdf)
 
+8. [Regresión lineal](https://github.com/IA-UNISON/material/raw/master/presentaciones/linear-regression.pdf) del curso de IA de Stanford.
+
+9. [Clasificación lineal](https://github.com/IA-UNISON/material/raw/master/presentaciones/linear-classification.pdf) del curso de IA de Stanford.
+
+10. [Descenso de gradiente estocástico](https://github.com/IA-UNISON/material/raw/master/presentaciones/stochastic-gradient-descent.pdf) del curso de IA de Stanford.
+
+11. [Generación de características](https://github.com/IA-UNISON/material/raw/master/presentaciones/non-linear-features.pdf) y [plantillas de características](https://github.com/IA-UNISON/material/raw/master/presentaciones/feature-templates.pdf) del curso de IA de Stanford.
+
+
 <!---
 
 eeee
@@ -31,15 +40,9 @@ eeee
 1. [Selección de la presentación inicial  del curso de Stanford](https://github.com/IA-UNISON/material/raw/master/presentaciones/Intro_Stanford.pdf)
 
 
-4. [Regresión lineal](https://github.com/IA-UNISON/material/raw/master/presentaciones/linear-regression.pdf)
-
-5. [Clasificación lineal](https://github.com/IA-UNISON/material/raw/master/presentaciones/linear-classification.pdf)
-
-6. [Descenso de gradiente estocástico](https://github.com/IA-UNISON/material/raw/master/presentaciones/stochastic-gradient-descent.pdf)
 
 7. [*Group distributionally robust optimization*](https://github.com/IA-UNISON/material/raw/master/presentaciones/group-dro.pdf)
 
-8. [Generación de características](https://github.com/IA-UNISON/material/raw/master/presentaciones/non-linear-features.pdf) y [plantillas de características](https://github.com/IA-UNISON/material/raw/master/presentaciones/feature-templates.pdf)
 
 9. [Redes neuronales](https://github.com/IA-UNISON/material/raw/master/presentaciones/neural-networks.pdf) y como calcular los gradientes con [el algoritmo de *b-prop* usando grafos de funciones](https://github.com/IA-UNISON/material/raw/master/presentaciones/backpropagation.pdf)
 
