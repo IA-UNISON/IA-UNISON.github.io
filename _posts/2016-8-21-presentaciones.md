@@ -32,6 +32,7 @@ por mi, y parte tomadas prestadas. En todos los casos, siempre le doy el crédit
 
 11. [Generación de características](https://github.com/IA-UNISON/material/raw/master/presentaciones/non-linear-features.pdf) y [plantillas de características](https://github.com/IA-UNISON/material/raw/master/presentaciones/feature-templates.pdf) del curso de IA de Stanford.
 
+
 12. Planeación (búsqueda en espacios discretos). Una [presentación general](https://github.com/IA-UNISON/material/raw/master/presentaciones/busquedas.pdf) combinando algunos slides del curso de Stanford de IA y sobre todo en la presentaciín realizada por al  profesor de Berkeley (Dan Klein) y utilizada por P. Norvig en su famoso MOOC.
 
 <!---
