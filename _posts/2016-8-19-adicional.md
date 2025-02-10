@@ -16,6 +16,21 @@ image: assets/images/larga3.jpg
 
 - [Notas sobre agentes racionales de Eduardo Acuña Yeomans](https://proyectoscc.unison.mx/maestros/eduardo/cursos/inar20251/problemas/00-AgentesRacionales.pdf)
 
+## Aprendizaje
+
+- [Unas notas sobre árboles de desición](https://www.cis.upenn.edu/~danroth/Teaching/CS446-17/LectureNotesNew/dtree/main.pdf) del profesor Dan Roth, de la Universidad de Pensilvania.
+
+- El curso [Learning from Data](https://work.caltech.edu/telecourse) del profesor Abu-Mostafa de CalTech. Los primeros videos dan una idea muy clara de la teoría del aprendizaje, aunque son algo densos. El libro se encuentra disponible en la biblioteca de la FICEN.
+
+## Búsquedas
+
+- [El algoritmo A* de Wikipedia (claro y sin errores).](https://en.wikipedia.org/wiki/A*_search_algorithm)
+
+- [Una presentación bastante clara de la U. de Sevilla de búsquedas informadas.](http://ia-unison.github.io/material/presentaciones/modelos_busquedas.pdf)
+
+- [La heurística más famosa para resolver el cubo de Rubik con A*.](https://www.cs.princeton.edu/courses/archive/fall06/cos402/papers/korfrubik.pdf)
+
+
 <!-- 
 
 ## Python

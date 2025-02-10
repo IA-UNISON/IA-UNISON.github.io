@@ -76,7 +76,9 @@ se familiaricen con el nivel de dificultad de las actividades.
    **terminada.** Fecha límite: *24 de enero de 2025*.
 
 2. [Aprendizaje supervisado (árboles)](https://github.com/IA-UNISON/2-Aprendizaje). 
-   **en proceso de modificación**. Fecha límite: *A determinar*.
+   **disponible**. Fecha límite: *10 de febrero de 1015*.
+
+3. [Aprendizaje supervisado (modelos lineales)](https://github.com/IA-UNISON/3-Aprendizaje). **disponible**. Fecha límite: *14 de febrero de 2025*.
    
 <!--
 

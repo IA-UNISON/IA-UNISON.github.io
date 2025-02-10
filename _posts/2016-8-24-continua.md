@@ -34,6 +34,8 @@ los temas vistos.
 
 ### [Actividad 2: Constuyendo un chechklist ético de IA]({% post_url 2015-1-2-continua2 %})
 
+
+
 <!--
 ### [Actividad 3: El camión mágico]({% post_url 2015-1-3-continua3 %})
 
