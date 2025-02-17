@@ -80,6 +80,10 @@ se familiaricen con el nivel de dificultad de las actividades.
 
 3. [Aprendizaje supervisado (modelos lineales)](https://github.com/IA-UNISON/3-Aprendizaje). **disponible**. Fecha límite: *14 de febrero de 2025*.
    
+4. [Búsquedas (planeación)](https://github.com/IA-UNISON/4-Busquedas-Informadas).
+   **en proceso de modificación.** Fecha límite: *a determinar*.
+
+   
 <!--
 
 1. [Satisfacción de restricciones](https://github.com/IA-UNISON/3-SatisfaccionRestricciones).
