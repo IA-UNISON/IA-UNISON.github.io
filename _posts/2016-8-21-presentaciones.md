@@ -35,6 +35,8 @@ por mi, y parte tomadas prestadas. En todos los casos, siempre le doy el crédit
 
 12. Planeación (búsqueda en espacios discretos). Una [presentación general](https://github.com/IA-UNISON/material/raw/master/presentaciones/busquedas.pdf) combinando algunos slides del curso de Stanford de IA y sobre todo en la presentaciín realizada por al  profesor de Berkeley (Dan Klein) y utilizada por P. Norvig en su famoso MOOC.
 
+13. [Introducción a los juegos con adversarios(https://github.com/IA-UNISON/material/raw/master/presentaciones/cs188-sp25-lec06.pdf)
+
 <!---
 
 eeee

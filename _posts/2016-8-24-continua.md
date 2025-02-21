@@ -34,10 +34,10 @@ los temas vistos.
 
 ### [Actividad 2: Constuyendo un chechklist ético de IA]({% post_url 2015-1-2-continua2 %})
 
+### [Actividad 3: Un puzzle un poco diferente]({% post_url 2015-1-3-continua3 %})
 
 
 <!--
-### [Actividad 3: El camión mágico]({% post_url 2015-1-3-continua3 %})
 
 
 ### [Actividad 2: Introducción y motivación]({% post_url 2015-1-2-continua2 %})
