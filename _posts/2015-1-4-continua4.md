@@ -16,7 +16,7 @@ En las siguientes imágenes se busca poder realizar la poda $\alpha$--$\beta$ en
 
 Supongamos que tenemos un juego suma cero, pero con tres jugadores (jugadores A, B, C), los cuales solamente pueden realizar dos acciones (izquierda y derecha). Si simulamos una ronda de todos los jugadores, y los valores finales, los cuales están ordenados para el jugador A, B y C respectivamente, tenemos el árbol de juego siguiente:
 
-![](https://github.com/IA-UNISON/material/blob/master/examenes-rapidos/tx3.png)
+![](https://github.com/IA-UNISON/material/raw/master/examenes-rapidos/tx3.png)
 
 1. ¿Cual es la utilidad para cada acción que pueda realizar el jugador A, si la propagamos con *minimax*? Escribe los valores de utilidad para cada jugada en el árbol de juego.
 
