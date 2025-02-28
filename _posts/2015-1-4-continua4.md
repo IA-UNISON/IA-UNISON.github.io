@@ -2,7 +2,7 @@
 layout: post
 title: 4. Búsquedas con adversarios
 description: Actividad de evaluación continua 4
-comments: true
+comments: false
 mathjax: true
 ---
 
@@ -10,13 +10,13 @@ mathjax: true
 
 En las siguientes imágenes se busca poder realizar la poda $\alpha$--$\beta$ en donde se marca en cada imagen. Las jugadas están ordenadas de izquierda a derecha como es usual. Para esto es necesario dar un valor a la variable $x$ de cada figura, tal como se muestra de ejemplo en el primer problema. En caso de no poder asignar un valor donde la poda se efectúe, favor de explicitarlo claramente.
 
-![](assets/images/poda.png)
+![](https://github.com/IA-UNISON/material/raw/master/examenes-rapidos/poda.png)
 
 ## Te para tres
 
 Supongamos que tenemos un juego suma cero, pero con tres jugadores (jugadores A, B, C), los cuales solamente pueden realizar dos acciones (izquierda y derecha). Si simulamos una ronda de todos los jugadores, y los valores finales, los cuales están ordenados para el jugador A, B y C respectivamente, tenemos el árbol de juego siguiente:
 
-![](assets/images/tx3.png)
+![](https://github.com/IA-UNISON/material/blob/master/examenes-rapidos/tx3.png)
 
 1. ¿Cual es la utilidad para cada acción que pueda realizar el jugador A, si la propagamos con *minimax*? Escribe los valores de utilidad para cada jugada en el árbol de juego.
 
