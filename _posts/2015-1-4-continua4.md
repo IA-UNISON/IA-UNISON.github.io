@@ -41,8 +41,8 @@ Ahora, realiza un reporte donde expliques de forma concisa, la manera en que se 
 
 2. El proyecto de github de [*Minimal Chess Engine*](https://github.com/lithander/MinimalChessEngine) (un motor de ajedrez mínimo programado en C#), que viene con documentación y con 3 video-tutoriales.
 
-3. [Una entrada de blog de *chessify.me](https://chessify.me/blog/chess-engine-evaluation) donde trata de explicar, aunque a muy alto nivel como evalúan algunas de las máquinas de inferencia libres más famosas.
+3. [Una entrada de blog de *chessify.me*](https://chessify.me/blog/chess-engine-evaluation) donde trata de explicar, aunque a muy alto nivel como evalúan algunas de las máquinas de inferencia libres más famosas.
 
-4. La Wiki de [chessprogramming.org](https://www.chessprogramming.org/Main_Page). Ahi viene evaluación que te lleva a diferentes documentos.
+4. La Wiki de [*chessprogramming.org*](https://www.chessprogramming.org/Main_Page). Ahi viene evaluación que te lleva a diferentes documentos.
 
 Este documento lo puedes [descargar aquí en pdf](https://github.com/IA-UNISON/material/raw/master/examenes-rapidos/juegos_continua.pdf)
