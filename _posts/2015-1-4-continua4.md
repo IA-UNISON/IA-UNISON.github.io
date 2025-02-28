@@ -1,48 +1,48 @@
 ---
 layout: post
-title: 4. Satisfacción de restricciones
+title: 4. Búsquedas con adversarios
 description: Actividad de evaluación continua 4
 comments: true
 mathjax: true
 ---
 
-Esta actividad se da bajo la necesidad de avanzar en el curso a pesar 
-de mis responsabilidades como miembro del H. consejo Divisional, y el 
-hecho que la hora del curso sea la mejor hora para realizar las
-reuniones :-). 
+## Podando árboles
 
-Bromas aparte, en esta actividad vamos a avanzar con el tema de Satisfacción de restricciones.
+En las siguientes imágenes se busca poder realizar la poda $\alpha$--$\beta$ en donde se marca en cada imagen. Las jugadas están ordenadas de izquierda a derecha como es usual. Para esto es necesario dar un valor a la variable $x$ de cada figura, tal como se muestra de ejemplo en el primer problema. En caso de no poder asignar un valor donde la poda se efectúe, favor de explicitarlo claramente.
 
-La mayor parte del material (que básicamente cubre el capítulo completo del libro de texto se encuentra en estos dos videos.
-Los videos son de diferentes años, debido a la calidad de audio, pero el material es básicamente el mismo que el curso
-que se imparte actualmente en Berkeley.
+![](assets/images/poda.png)
 
-### Satisfacción de restricciones (introducción y algoritmos principales)
+## Te para tres
 
-La primera parte (y la más importante) sobre CSP viene en este video. Sobre todo es importante entender
+Supongamos que tenemos un juego suma cero, pero con tres jugadores (jugadores A, B, C), los cuales solamente pueden realizar dos acciones (izquierda y derecha). Si simulamos una ronda de todos los jugadores, y los valores finales, los cuales están ordenados para el jugador A, B y C respectivamente, tenemos el árbol de juego siguiente:
 
-1. El planteamiento de un problema de CSP binario
+![](assets/images/tx3.png)
 
-2. El método general de solución
+1. ¿Cual es la utilidad para cada acción que pueda realizar el jugador A, si la propagamos con *minimax*? Escribe los valores de utilidad para cada jugada en el árbol de juego.
 
-3. El filtrado por *forward checking* y arco-consistencia.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hJ9WOiueJes?start=67" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+2. ¿Es posible hacer una poda similar a la $\alpha$--$\beta$ de éste árbol de juego? De ser así explica la manera y marca las ramas podadas en una poda óptima. Se no ser posible, justifica tu respuesta.
 
 
-### Satisfacción de restricciones (algoritmos avanzados) y un vistazo a optimización discreta
+## Un lindo gatito
 
-En este video vamos a ver casos especiales así como el algoritmo de mínimos conflictos. Al gfinal se introduce
-muy brevemente la optimización discreta y trés de sus principales algoritmos. Hay que verlo, pero no es tan
-importante como el primero de los videos.
+Vamos a realizar un super excitante juego llamado el Gato de 2 × 2. Este juego es como el juego del gato, pero con solamente 4 casillas. Como cosa adicional, a los jugadores se les permite pasar. Las X siempre empiezan.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kYVSOLX_t84?start=320" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+1. Dibuja el árbol de juego hasta una profundidad de 2. No agregues posiciones que sean rotaciones o reflexiones de la misma jugada. El árbol deberá tener al final 5 nodos hoja.
 
-### ¿Dudas?
+2. Si la función de utilidad es el número de X menos el número de O en el tablero, marca los valores de cada nodo, e indica cuales ramas serían podadas si utilizamos un algoritmo de poda $\alpha$--$\beta$, y un ordenamiento de izquierda a derecha, de acuerdo a tu propio árbol que dibujaste.
 
-Utilicen el blog para hacer preguntas con dudas generales o particulares. Si le puedes responder a un compañero, por favor hazlo.
+3. Si quisiéramos resolver completamente el juego, explica porque en este caso la poda $\alpha$--$\beta$ con un ordenamiento de jugadas apropiado sería mucho mejor que el algoritmo básico de *minimax*.
 
-Recuerden, si no hay dudas, doy por visto el tema y nos lanzamos con las actividades de evaluación.
+## Dios mueve al jugador, y éste, la pieza
 
+Ahora, realiza un reporte donde expliques de forma concisa, la manera en que se evalúan los estados en una máquina de inferencia de ajedrez. Puedes consultar entre otras cosas:
 
+1. [Tutorial de en Youtube para programar tu propio ajedrez por Eddie Sharick](https://www.youtube.com/channel/UCaEohRz5bPHywGBwmR18Qww), y la [implementación hecha por Mikołaj Skrzypczak](https://github.com/mikolaj-skrzypczak/chess-engine)
 
+2. El proyecto de github de [*Minimal Chess Engine*](https://github.com/lithander/MinimalChessEngine) (un motor de ajedrez mínimo programado en C#), que viene con documentación y con 3 video-tutoriales.
+
+3. [Una entrada de blog de *chessify.me](https://chessify.me/blog/chess-engine-evaluation) donde trata de explicar, aunque a muy alto nivel como evalúan algunas de las máquinas de inferencia libres más famosas.
+
+4. La Wiki de [chessprogramming.org](https://www.chessprogramming.org/Main_Page). Ahi viene evaluación que te lleva a diferentes documentos.
+
+Este documento lo puedes [descargar aquí en pdf](https://github.com/IA-UNISON/material/raw/master/examenes-rapidos/juegos_continua.pdf)
