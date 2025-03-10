@@ -37,6 +37,8 @@ por mi, y parte tomadas prestadas. En todos los casos, siempre le doy el crédit
 
 13. [Introducción a los juegos con adversarios](https://github.com/IA-UNISON/material/raw/master/presentaciones/cs188-sp25-lec06.pdf).
 
+14. **Procesos de decisión de Markov**: [Una introducción al tema](https://github.com/IA-UNISON/material/raw/master/presentaciones/MDP-intro.pdf) y como [modelar dichos procesos](https://github.com/IA-UNISON/material/raw/master/presentaciones/MDP-model.pdf). Ya modelados, vamos a ver los algoritmos básicos de *prigramación dinámica como son [evaluación de políticas](https://github.com/IA-UNISON/material/raw/master/presentaciones/policy-evaluation.pdf) e [iteración de valor](https://github.com/IA-UNISON/material/raw/master/presentaciones/value-iteration.pdf)
+
 <!---
 
 eeee
