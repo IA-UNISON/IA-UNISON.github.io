@@ -31,6 +31,18 @@ image: assets/images/larga3.jpg
 - [La heurística más famosa para resolver el cubo de Rubik con A*.](https://www.cs.princeton.edu/courses/archive/fall06/cos402/papers/korfrubik.pdf)
 
 
+## Búsquedas con adversarios
+
+- Un [visualizador del algoritmo de poda $\alpha -- \beta$](https://pascscha.ch/info2/abTreePractice/), muy simpático para practicar.
+- 
+
+
+## Procesos de decisión de Markov y aprendizaje por refuerzo
+
+- [Una explicación visual de las cadenas de Markov](https://setosa.io/ev/markov-chains/). Tambien esta [presentación de Urbana-Champaigne](https://courses.physics.illinois.edu/cs357/sp2020/assets/lectures/complete-slides/13-Markov-Chains.pdf) donde explican las cadenas de Markov junto al algoritmo de PageRank.
+
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html). El libro que es la biblia del aprendizaje por refuerzo. Libre en internet, y con recursos extra (código y ayudas didácticas). El capítulo 3 explica los MDP, el capítulo 4 los algoritmos de programación dinámica y el capítulo 6 los métodos tabulares.   
+
 <!-- 
 
 ## Python
