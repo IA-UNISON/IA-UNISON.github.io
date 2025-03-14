@@ -86,7 +86,9 @@ se familiaricen con el nivel de dificultad de las actividades.
 
 5. [Búsquedas con adversario](https://github.com/IA-UNISON/5-Busquedas-Adversario). 
    **en proceso de modificación.** Fecha límite: *a determinar*.
-   
+
+6. [MDPs y aprendizaje por refuerzo](https://github.com/IA-UNISON/6--MDPs-y-RL)
+
 <!--
 
 1. [Satisfacción de restricciones](https://github.com/IA-UNISON/3-SatisfaccionRestricciones).
