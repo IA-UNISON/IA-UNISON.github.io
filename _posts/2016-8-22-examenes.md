@@ -13,6 +13,7 @@ image: assets/images/chica2.jpg
 3. [Intermedio 2018b](/assets/examenes/intermedio_2018b.pdf)
 4. [Intermedio simulacro 1](/assets/examenes/intermedio-simulacro-1.pdf)
 5. [Intermedio simulacro 2](/assets/examenes/intermedio-simulacro-2.pdf)
+6. [Intermedio 2025a](/assets/examenes/intermedio_2025a.pdf)
 
 ## Exámenes finales
 
