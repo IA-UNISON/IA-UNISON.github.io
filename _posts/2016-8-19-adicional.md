@@ -43,6 +43,10 @@ image: assets/images/larga3.jpg
 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html). El libro que es la biblia del aprendizaje por refuerzo. Libre en internet, y con recursos extra (código y ayudas didácticas). El capítulo 3 explica los MDP, el capítulo 4 los algoritmos de programación dinámica y el capítulo 6 los métodos tabulares.   
 
+## Satisfacción de restricciones
+
+- 
+
 <!-- 
 
 ## Python

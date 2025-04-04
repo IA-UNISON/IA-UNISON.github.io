@@ -82,16 +82,20 @@ se familiaricen con el nivel de dificultad de las actividades.
    **terminada**. Fecha límite: *14 de febrero de 2025*.
    
 4. [Búsquedas (planeación)](https://github.com/IA-UNISON/4-Busquedas-Informadas).
-   **disponible** Fecha límite: *7 de marzo*.
+   **disponible**. Fecha límite: *7 de marzo*.
 
 5. [Búsquedas con adversario](https://github.com/IA-UNISON/5-Busquedas-Adversario). 
-   **en proceso de modificación.** Fecha límite: *a determinar*.
+   **disponible.** Fecha límite: *12 de abril de 2025*.
 
-6. [MDPs y aprendizaje por refuerzo](https://github.com/IA-UNISON/6--MDPs-y-RL)
+6. [MDPs y aprendizaje por refuerzo](https://github.com/IA-UNISON/6-MDPs-y-RL)
+   **en proceso de modificación**. Fecha límite a determinar.
+
+7. [Satisfacción de restricciones](https://github.com/IA-UNISON/7-Satisfaccion-Restricciones).
+   **en proceso de modificación**. Fecha límite a determinar.
 
 <!--
 
-1. [Satisfacción de restricciones](https://github.com/IA-UNISON/3-SatisfaccionRestricciones).
+1. [Satisfacción de restricciones](https://github.com/IA-UNISON/7-Satisfaccion-Restricciones).
    **disponible.** Fecha límite: *20 de septiembre de 2019*.
 
 2. [Búsquedas locales](https://github.com/IA-UNISON/2-Temple-Simulado). 
