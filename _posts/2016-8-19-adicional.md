@@ -45,7 +45,21 @@ image: assets/images/larga3.jpg
 
 ## Satisfacción de restricciones
 
-- 
+
+1. [El artículo original con el algoritmo AC-3](http://cse.unl.edu/~choueiry/Documents/Mackworth-AIJ77.pdf)
+
+2. [El algoritmo AC-3 en Wikipedia (muy claro, sin errores)](https://en.wikipedia.org/wiki/AC-3_algorithm)
+
+
+## Búsquedas locales
+
+1. [Un blog con un ejemplo de temple simulado](http://apmonitor.com/me575/index.php/Main/SimulatedAnnealing)
+
+2. [Artículo con la convergencia del algoritmo de temple simulado](http://www.mit.edu/~dbertsim/papers/Optimization/Simulated%20annealing.pdf)
+
+3. [Unas notas (libro) excelentes en computación evolutiva](http://delta.cs.cinvestav.mx/~ccoello/compevol/apuntes.pdf)
+
+
 
 <!-- 
 
