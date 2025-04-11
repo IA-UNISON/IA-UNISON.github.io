@@ -2,7 +2,7 @@
 layout: post
 title: 4. Búsquedas con adversarios
 description: Actividad de evaluación continua 4
-comments: false
+comments: true
 mathjax: true
 ---
 

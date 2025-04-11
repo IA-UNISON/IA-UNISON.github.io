@@ -2,7 +2,7 @@
 layout: post
 title: 2. Constuyendo un chechklist ético de IA
 description: Actividad de evaluación continua 2
-comments: false
+comments: true
 mathjax: true
 ---
 
