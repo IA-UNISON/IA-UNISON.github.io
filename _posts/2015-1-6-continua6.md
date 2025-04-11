@@ -1,11 +1,39 @@
 ---
 layout: post
-title: 6. Vamos a inventar un algoritmo metaheurístico
+title: 6. Diversión con CSPs
 description: Actividad de evaluación continua 6
 comments: true
 mathjax: true
 ---
 
+## En *Esperanza*
+
+En *Esperanza* viven 4 familias: los Sosa, los Waissman, los Yeomans y los Gutú, en casa próximas, numeradas 101, 102, 103 y 104. 
+
+Los Gutú viven en una casa con menor número que los Waissman. Los Waissman viven próximos a los Sosa en una casa con un número mayor. Hay al menos una casa entre los Waissman y los Yeomans. Los Gutú no viven en una casa cuyo número termina en 2. Los Yeomans no viven en una casa cuyo número termina en 4.
+
+Vamos a resolver este problema como si fuera dificil, usando una representación como *CSP*.
+
+1. Define cuales son las variables, y el dominio de cada una de las variables, una vez reducido por las restricciones unarias y los vecinos de cada variable.
+
+2. Escribe en una función en *pseudopython* cuales son las restricciones binarias (todas)
+
+3. Si utilizamos el grado heurístico como método para seleccionar la primera variable ¿Cuál sería la variable?
+
+4. Si utilizamos la variable mas restringida como heurística para las siguientes variables ¿Cuál sería la siguiente variable a seleccionar si se utiliza el método de 1 consistencia? 
+
+5. Si se utiliza el método de 1-consistencia, la selección de variables ya especificada y el ordenamiento de valores por el valor menos restrictivo, ¿Cuántos *backtrackings* se realizan para tener la asignación completa? 
+
+## Un cuadrado mágico
+
+Un cuadrado mágico es una matriz de $n \times n$ de números enteros positivos, todos diferentes, tal que la suma de cada uno de sus renglones, cada una de sus columnas y las dos diagonales principales sumen el mismo número. Vamos a plantear el problema como un CSP binario.
+
+1. Define las variables ($X$), el dominio de cada variables ($D$) y los vecinos de cada variable ($N$) para un problema genérico de un cuadrado mágico de $n \times n$.
+
+2. Basado en tu definición, y haciendo uso de las heurísticas vistas en clase. Decide si vas a utilizar *1-consistencia* o *2-consistencia* y representa gráficamente el árbol primero en profundidad que se genera para resolver un cuadrado mágico de $3 \times 3$. La originalidad y claridad para presentar el proceso es muy importante.
+
+
+<!-- 
 ## 1. Algoritmos metaheurísticos
 
 Los [algortimos metaheurísticos de acuerdo a wikipedia]() son *métodos de búsquedas locales para resolver un tipo de problema general, usando los parámetros dados por el usuario sobre unos procedimientos genéricos y abstractos de una manera que se espera eficiente.*  
@@ -37,4 +65,4 @@ Se debe de presentar:
 Por supuesto, el reporte debe de ser enviado en $\LaTeX$.
 
 Compartan información e ideas. Utilicen por favor el foro de este post para compartir ideas de posbles metaheurísticas y dudas.
-
+ -->

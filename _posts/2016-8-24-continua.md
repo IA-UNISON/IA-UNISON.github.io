@@ -37,6 +37,10 @@ los temas vistos.
 
 ### [Actividad 4: Juegos para entretenerse]({% post_url 2015-1-4-continua4 %})
 
+### [Actividad 5: Otro autobús mágico, pero con MDPs]({% post_url 2015-1-5-continua5 %})
+
+### [Actividad 6: Diversión con CSPs]({% post_url 2015-1-6-continua6 %})
+
 
 <!--
 

@@ -93,6 +93,9 @@ se familiaricen con el nivel de dificultad de las actividades.
 7. [Satisfacción de restricciones](https://github.com/IA-UNISON/7-Satisfaccion-Restricciones).
    **en proceso de modificación**. Fecha límite a determinar.
 
+8. [Búsquedas locales](https://github.com/IA-UNISON/4-Busquedas-locales.git).
+**en proceso de modificación**. Fecha límite a determinar.
+
 <!--
 
 1. [Satisfacción de restricciones](https://github.com/IA-UNISON/7-Satisfaccion-Restricciones).
