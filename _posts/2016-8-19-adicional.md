@@ -59,6 +59,11 @@ image: assets/images/larga3.jpg
 
 3. [Unas notas (libro) excelentes en computación evolutiva](http://delta.cs.cinvestav.mx/~ccoello/compevol/apuntes.pdf)
 
+## Redes neuronales
+
+1. [Un video explicando el algoritmo de B-Prop](https://www.youtube.com/watch?v=eNIqz_noix8&t=1s)
+
+2. [Un excelente curso introductorio a las RN por el MIT](http://introtodeeplearning.com/)
 
 
 <!-- 
