@@ -41,9 +41,11 @@ por mi, y parte tomadas prestadas. En todos los casos, siempre le doy el crédit
 
 15. [Satisfacción de restricciones](https://github.com/IA-UNISON/material/raw/master/presentaciones/CSPs-1.pdf)
 
-16. [Introducción a las redes neuronales](https://github.com/mcd-unison/aaa-curso/raw/main/slides/neural-networks.pdf)
+16. [Inferencia bayesiana](http://ia-unison.github.io/material/presentaciones/Inferencia.pdf). Tomada del famoso MOOC que impartió P. Norvig.
 
-17. [Aprendizaje en Redes neuronales](https://github.com/mcd-unison/aaa-curso/raw/main/slides/backpropagation.pdf) 
+17. [Introducción a las redes neuronales](https://github.com/mcd-unison/aaa-curso/raw/main/slides/neural-networks.pdf)
+
+18. [Aprendizaje en Redes neuronales](https://github.com/mcd-unison/aaa-curso/raw/main/slides/backpropagation.pdf) 
 
 <!---
 
