@@ -25,13 +25,13 @@ El curso 4 pueden saltarlo, aunque les recomiendo fuertemente lo hagan. Al regis
 
 ## Videos sobre redes neuronales
 
-- [¿Qué es una Red Neuronal? Parte 1 : La Neurona | DotCSV](https://www.youtube.com/watch?v=MRIv2IwFTPg) (duración 00:09:14)
+- [¿Qué es una Red Neuronal? Parte 1 : La Neurona *DotCSV*](https://www.youtube.com/watch?v=MRIv2IwFTPg) (duración 00:09:14)
 
-- [¿Qué es una Red Neuronal? Parte 2 : La Red | DotCSV](https://www.youtube.com/watch?v=uwbHOpp9xkc) (duración 00:11:33)
+- [¿Qué es una Red Neuronal? Parte 2 : La Red *DotCSV*](https://www.youtube.com/watch?v=uwbHOpp9xkc) (duración 00:11:33)
 
-- [¿Qué es una Red Neuronal? Parte 3 : Backpropagation | DotCSV](https://www.youtube.com/watch?v=eNIqz_noix8) (duración 00:11:21)
+- [¿Qué es una Red Neuronal? Parte 3 : Backpropagation *DotCSV*](https://www.youtube.com/watch?v=eNIqz_noix8) (duración 00:11:21)
 
-- [Pero ¿qué es una red neuronal? | Capítulo 1, Aprendizaje profundo](https://youtu.be/aircAruvnKk?si=LrrkMaxGwTC6zhl2) (duración 00:18:39)
+- [Pero ¿qué es una red neuronal? Capítulo 1, Aprendizaje profundo](https://youtu.be/aircAruvnKk?si=LrrkMaxGwTC6zhl2) (duración 00:18:39)
 
 - [Descenso de gradiente, cómo aprenden las redes neuronales](https://youtu.be/IHZwWFHWa-w?si=rm_zN4DkSUQfEClb) (duración 00:20:33)
 
