@@ -11,15 +11,15 @@ mathjax: true
 
 Desarrolla los siguientes cursos:
 
-1. Curso [*How transformers work?](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/) de *DeepLearning AI* (Duración: 1 hora 34 minutos)
+1. Curso [*How transformers work?*](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/) de *DeepLearning AI* (Duración: 1 hora 34 minutos)
 
-2. Curso [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) de *DeepLearning AI* (Duración: 1 hora 38 minutos)
+2. Curso [*LangChain for LLM Application Development*](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) de *DeepLearning AI* (Duración: 1 hora 38 minutos)
 
-3. Curso [Building Applications with Vector Databases](https://www.deeplearning.ai/short-courses/building-applications-vector-databases/) de *DeepLearning AI* (Duración: 1 hora 13 minutos)
+3. Curso [*Building Applications with Vector Databases*](https://www.deeplearning.ai/short-courses/building-applications-vector-databases/) de *DeepLearning AI* (Duración: 1 hora 13 minutos)
 
-4. Curso [Preprocessing Unstructured Data for LLM Applications](https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/) de *DeepLearning AI* (Duración: 1 hora 12 minutos)
+4. Curso [*Preprocessing Unstructured Data for LLM Applications*](https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/) de *DeepLearning AI* (Duración: 1 hora 12 minutos)
 
-5. Curso [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) de *DeepLearning AI* (Duración: 1 hora 32 minutos)
+5. Curso [*AI Agents in LangGraph*](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) de *DeepLearning AI* (Duración: 1 hora 32 minutos)
 
 El curso 4 pueden saltarlo, aunque les recomiendo fuertemente lo hagan. Al registrarse y terminar el curso se les otorga un diploma de completud. Si no se encuentra, pueden hacer ua captura de pantalla de la sección *My Learnings* en la pestaña de *Completed* donde viene su información personal y los cursos que ya tomaron en *DeepLearning.AI*.
 
