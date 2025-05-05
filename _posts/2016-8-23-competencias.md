@@ -96,6 +96,9 @@ se familiaricen con el nivel de dificultad de las actividades.
 8. [Búsquedas locales](https://github.com/IA-UNISON/4-Busquedas-locales.git).
 **en proceso de modificación**. Fecha límite a determinar.
 
+9. [Cursos de LLMs y videos de RN]({% post_url 2015-2-10-competencias1 %}). **disponible.** Fecha límite: *17 de mayo de 2025*.
+
+
 <!--
 
 1. [Satisfacción de restricciones](https://github.com/IA-UNISON/7-Satisfaccion-Restricciones).

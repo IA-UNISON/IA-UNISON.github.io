@@ -41,6 +41,7 @@ los temas vistos.
 
 ### [Actividad 6: Diversión con CSPs]({% post_url 2015-1-6-continua6 %})
 
+### [Actividad final: Las notas de clase]({% post_url 2015-1-10-continua10 %})
 
 <!--
 
