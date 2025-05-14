@@ -21,3 +21,4 @@ image: assets/images/chica2.jpg
 2. [Final 2017b](/assets/examenes/final_2017b.pdf)
 3. [Final 2018a](/assets/examenes/final_2018a.pdf)
 4. [Final 2018b](/assets/examenes/final_2018b.pdf)
+5. [Final 2025a](/assets/examenes/final_2025b.pdf)
