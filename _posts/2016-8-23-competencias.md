@@ -72,6 +72,9 @@ vez que la actividad esté marcada como **terminada** no se aceptarán nuevos
 se dejan las ligas a la actividad con el fin que los estudiantes
 se familiaricen con el nivel de dificultad de las actividades.
 
+<!--
+
+
 1. [Agentes inteligentes](https://github.com/IA-UNISON/1-Agentes-Inteligentes).
    **terminada.** Fecha límite: *24 de enero de 2025*.
 
@@ -99,7 +102,6 @@ se familiaricen con el nivel de dificultad de las actividades.
 9. [Cursos de LLMs y videos de RN]({% post_url 2015-1-1-competencias1 %}). **disponible.** Fecha límite: *17 de mayo de 2025*.
 
 
-<!--
 
 1. [Satisfacción de restricciones](https://github.com/IA-UNISON/7-Satisfaccion-Restricciones).
    **disponible.** Fecha límite: *20 de septiembre de 2019*.

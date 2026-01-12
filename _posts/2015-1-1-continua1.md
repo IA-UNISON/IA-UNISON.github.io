@@ -15,11 +15,11 @@ mathjax: false
 
 3. Genera al menos 3 notas a partir de prompts interesantes sobre temas que trata el artículo de Turing.
 
-4. Agrega una nota propia con una evaluación sobre la explicacion en podcast del artículo, si lo consideras interesante y si te parece apegado al artículo original.
+4. Agrega una nota propia con una evaluación sobre la explicación en podcast del artículo, si lo consideras interesante y si te parece apegado al artículo original.
 
 5. Agrega una nota sobre lo bueno y lo malo de las notas generadas, y si te ayudaron a entender mejor el artículo.
 
-El cuaderno final (ponle un título) compartelo en un enlace que vas a enviar en la Tarea que se va a subir en Teams.
+El cuaderno final (ponle un título) compártelo en un enlace que vas a enviar en la Tarea que se va a subir en Teams.
 
 
 

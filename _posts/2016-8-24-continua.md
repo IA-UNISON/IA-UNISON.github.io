@@ -31,6 +31,8 @@ los temas vistos.
 
 ### [Actividad 1: El juego de imitación imitado]({% post_url 2015-1-1-continua1 %})
 
+<!--
+
 ### [Actividad 2: Constuyendo un chechklist ético de IA]({% post_url 2015-1-2-continua2 %})
 
 ### [Actividad 3: Un puzzle un poco diferente]({% post_url 2015-1-3-continua3 %})
@@ -43,7 +45,7 @@ los temas vistos.
 
 ### [Actividad final: Las notas de clase]({% post_url 2015-1-1-continua11 %})
 
-<!--
+
 
 
 ### [Actividad 2: Introducción y motivación]({% post_url 2015-1-2-continua2 %})

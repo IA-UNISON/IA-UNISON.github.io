@@ -9,26 +9,27 @@ image: assets/images/chica3.jpg
 Algunas presentaciones son hechas por mi, muchas van a ser presentaciones que hizo Eduardo, otras son una parte hechas
 por mi, y parte tomadas prestadas. En todos los casos, siempre le doy el crédito correspondiente a quien las hizo.
 
+1. [Motivación](https://github.com/IA-UNISON/material/raw/master/presentaciones/motivacion-IA.pdf)
 
-1. [Introducción a la IA](https://github.com/IA-UNISON/material/raw/master/presentaciones/Intro_IA.pdf)
+2. [Introducción a la IA](https://github.com/IA-UNISON/material/raw/master/presentaciones/Intro_IA.pdf)
 
-2. [Agentes inteligentes](https://github.com/IA-UNISON/material/raw/master/presentaciones/Agentes_inteligentes.pdf). Esta presentación es un extracto de la presentación de Russell que viene en la [página de AIMA](http://aima.eecs.berkeley.edu).
+1. [Agentes inteligentes](https://github.com/IA-UNISON/material/raw/master/presentaciones/Agentes_inteligentes.pdf). Esta presentación es un extracto de la presentación de Russell que viene en la [página de AIMA](http://aima.eecs.berkeley.edu).
 
-3. [Pequeña introducción al aprendizaje máquina](https://github.com/IA-UNISON/material/raw/master/presentaciones/machine_learning.pdf)
+2. [Pequeña introducción al aprendizaje máquina](https://github.com/IA-UNISON/material/raw/master/presentaciones/machine_learning.pdf)
 
-4. Presentación sobre [porqué decimos que el aprendizaje supervisado es posible](https://github.com/IA-UNISON/material/raw/master/presentaciones/generalizacion.pdf)
+3. Presentación sobre [porqué decimos que el aprendizaje supervisado es posible](https://github.com/IA-UNISON/material/raw/master/presentaciones/generalizacion.pdf)
 
-5. Presentación sobre [árboles de decisión](https://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture11.pdf) de David Sontag (NYU, curso del MIT) sobre árboles de decisión y bosques aleatorios.
+4. Presentación sobre [árboles de decisión](https://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture11.pdf) de David Sontag (NYU, curso del MIT) sobre árboles de decisión y bosques aleatorios.
 
-6. [Sesgo cognitivo en aprendizaje automático](https://github.com/IA-UNISON/material/raw/master/presentaciones/sesgoml.pdf)
+5. [Sesgo cognitivo en aprendizaje automático](https://github.com/IA-UNISON/material/raw/master/presentaciones/sesgoml.pdf)
 
-7. [Regresión lineal](https://github.com/IA-UNISON/material/raw/master/presentaciones/linear-regression.pdf) del curso de IA de Stanford.
+6. [Regresión lineal](https://github.com/IA-UNISON/material/raw/master/presentaciones/linear-regression.pdf) del curso de IA de Stanford.
 
-8. [Clasificación lineal](https://github.com/IA-UNISON/material/raw/master/presentaciones/linear-classification.pdf) del curso de IA de Stanford.
+7. [Clasificación lineal](https://github.com/IA-UNISON/material/raw/master/presentaciones/linear-classification.pdf) del curso de IA de Stanford.
 
-9.  [Descenso de gradiente estocástico](https://github.com/IA-UNISON/material/raw/master/presentaciones/stochastic-gradient-descent.pdf) del curso de IA de Stanford.
+8.  [Descenso de gradiente estocástico](https://github.com/IA-UNISON/material/raw/master/presentaciones/stochastic-gradient-descent.pdf) del curso de IA de Stanford.
 
-10. [Generación de características](https://github.com/IA-UNISON/material/raw/master/presentaciones/non-linear-features.pdf) y [plantillas de características](https://github.com/IA-UNISON/material/raw/master/presentaciones/feature-templates.pdf) del curso de IA de Stanford.
+9.  [Generación de características](https://github.com/IA-UNISON/material/raw/master/presentaciones/non-linear-features.pdf) y [plantillas de características](https://github.com/IA-UNISON/material/raw/master/presentaciones/feature-templates.pdf) del curso de IA de Stanford.
 
 
 12. Planeación (búsqueda en espacios discretos). Una [presentación general](https://github.com/IA-UNISON/material/raw/master/presentaciones/busquedas.pdf) combinando algunos slides del curso de Stanford de IA y sobre todo en la presentaciín realizada por al  profesor de Berkeley (Dan Klein) y utilizada por P. Norvig en su famoso MOOC.
