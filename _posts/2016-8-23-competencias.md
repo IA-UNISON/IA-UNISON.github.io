@@ -69,8 +69,7 @@ modificadas de forma importante, por lo que se recomienda no empezar a realizar
 una actividad, hasta que esté marcada como **disponible** en ésta página. Una
 vez que la actividad esté marcada como **terminada** no se aceptarán nuevos
 *pull request*. Mientras esté la actividad con el estatus de **en proceso de modificación**  se dejan las ligas a la actividad con el fin que los estudiantes
-se familiaricen con el nivel de dificultad de las actividades.
-
+se familiaricen con el nivel de dificultad de las actividades.f
 
 1. [Agentes inteligentes](https://github.com/IA-UNISON/1-Agentes-Inteligentes).
    **terminada** Fecha límite: *26 de enero de 2025*.
