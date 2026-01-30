@@ -73,7 +73,11 @@ se familiaricen con el nivel de dificultad de las actividades.
 
 
 1. [Agentes inteligentes](https://github.com/IA-UNISON/1-Agentes-Inteligentes).
-   **disponible** Fecha límite: *26 de enero de 2025*.
+   **terminada** Fecha límite: *26 de enero de 2025*.
+
+2. [Aprendizaje supervisado (regresión lineal y logística)](https://github.com/IA-UNISON/2-Aprendizaje-2026). 
+   **disponible**. Fecha límite: *10 de febrero de 2026*.
+
 
 <!--
 2. [Aprendizaje supervisado (árboles)](https://github.com/IA-UNISON/2-Aprendizaje). 
