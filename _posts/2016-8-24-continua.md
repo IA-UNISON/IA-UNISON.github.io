@@ -27,8 +27,6 @@ hecho en éstas actividades es muy importante para completar la comprensión de
 los temas vistos.
 
 
-
-
 ### [Actividad 1: El juego de imitación imitado]({% post_url 2015-1-1-continua1 %})
 
 ### [Actividad 2: Un pequeño curso de python]({% post_url 2015-1-1-continua2 %})
