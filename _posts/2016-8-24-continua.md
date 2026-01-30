@@ -33,7 +33,9 @@ los temas vistos.
 
 ### [Actividad 2: Un pequeño curso de python]({% post_url 2015-1-1-continua2 %})
 
-### [Actividad 3:] Cuestionario sobre agentes inteligentes({% post_url 2015-1-1-continua3 %})
+### [Actividad 3: Cuestionario sobre agentes inteligentes]({% post_url 2015-1-1-continua3 %})
+
+### [Actividad 4: Aprendiendo `numpy`, `matplotlib` y `pandas`]({% post_url 2015-1-1-continua4 %})
 
 <!--
 
