@@ -76,13 +76,11 @@ se familiaricen con el nivel de dificultad de las actividades.
    **terminada** Fecha límite: *26 de enero de 2025*.
 
 2. [Aprendizaje supervisado (regresión lineal y logística)](https://github.com/IA-UNISON/2-Aprendizaje-2026). 
-   **disponible**. Fecha límite: *10 de febrero de 2026*.
+   **disponible**. Fecha límite: *13 de febrero de 2026*.
 
-
+3. [Aprendizaje supervisado (árboles)](https://github.com/IA-UNISON/2-Aprendizaje). 
+   **disponible**. Fecha límite: *19 de febrero de 1015*.
 <!--
-2. [Aprendizaje supervisado (árboles)](https://github.com/IA-UNISON/2-Aprendizaje). 
-   **terminada**. Fecha límite: *10 de febrero de 1015*.
-
 3. [Aprendizaje supervisado (modelos lineales)](https://github.com/IA-UNISON/3-Aprendizaje). 
    **terminada**. Fecha límite: *14 de febrero de 2025*.
    
