@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2. Un cursito de python.
+title: Un cursito de python.
 description: Actividad de evaluación continua 2
 comments: true
 mathjax: false

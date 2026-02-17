@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 3. Un puzzle un poco diferente
-description: Actividad de evaluación continua 3
+title: Un puzzle un poco diferente
+description: Actividad de evaluación continua 5
 comments: true
 mathjax: true
 ---

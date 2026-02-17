@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1. El juego de imitación imitado.
+title: El juego de imitación imitado.
 description: Actividad de evaluación continua 1
 comments: true
 mathjax: false

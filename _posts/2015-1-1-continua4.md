@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4. Aprendiendo `numpy`, `matplotlib` y `pandas`
+title: Aprendiendo `numpy`, `matplotlib` y `pandas`
 description: Actividad de evaluación continua 4
 comments: true
 mathjax: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3. Un cuestionario sobre agentes inteligentes.
+title: Un cuestionario sobre agentes inteligentes.
 description: Actividad de evaluación continua 3
 comments: true
 mathjax: false

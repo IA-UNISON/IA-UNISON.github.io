@@ -35,11 +35,13 @@ los temas vistos.
 
 ### [Actividad 4: Aprendiendo `numpy`, `matplotlib` y `pandas`]({% post_url 2015-1-1-continua4 %})
 
+### [Actividad 5: Un puzzle un poco diferente]({% post_url 2015-1-3-continua3 %})
+
 <!--
 
 ### [Actividad 2: Constuyendo un chechklist ético de IA]({% post_url 2015-1-2-continua2 %})
 
-### [Actividad 3: Un puzzle un poco diferente]({% post_url 2015-1-3-continua3 %})
+
 
 ### [Actividad 4: Juegos para entretenerse]({% post_url 2015-1-4-continua4 %})
 
