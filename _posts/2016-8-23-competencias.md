@@ -79,10 +79,14 @@ se familiaricen con el nivel de dificultad de las actividades.
    **terminada**. Fecha límite: *13 de febrero de 2026*.
 
 3. [Aprendizaje supervisado (árboles)](https://github.com/IA-UNISON/3-Aprendizaje-2026). 
-   **disponible**. Fecha límite: *20 de febrero de 2026*.
+   **terminada**. Fecha límite: *20 de febrero de 2026*.
 
 4. [Búsquedas (planeación)](https://github.com/IA-UNISON/4-Busquedas-Informadas).
-   **disponible**. Fecha límite: *27 de febrero de 2026*.
+   **terminada**. Fecha límite: *27 de febrero de 2026*.
+
+5. [Búsquedas con adversario](https://github.com/IA-UNISON/5-Busquedas-Adversario). 
+   **disponible.** Fecha límite: *15 de marzo de 2026*.
+
 
 <!--
 
@@ -91,8 +95,6 @@ se familiaricen con el nivel de dificultad de las actividades.
    
 
 
-5. [Búsquedas con adversario](https://github.com/IA-UNISON/5-Busquedas-Adversario). 
-   **disponible.** Fecha límite: *12 de abril de 2025*.
 
 6. [MDPs y aprendizaje por refuerzo](https://github.com/IA-UNISON/6-MDPs-y-RL)
    **en proceso de modificación**. Fecha límite a determinar.

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 4. Búsquedas con adversarios
-description: Actividad de evaluación continua 4
-comments: true
+title: Búsquedas con adversarios
+description: Actividad de evaluación continua 6
+comments: false
 mathjax: true
 ---
 
@@ -46,3 +46,5 @@ Ahora, realiza un reporte donde expliques de forma concisa, la manera en que se 
 4. La Wiki de [*chessprogramming.org*](https://www.chessprogramming.org/Main_Page). Ahi viene evaluación que te lleva a diferentes documentos.
 
 Este documento lo puedes [descargar aquí en pdf](https://github.com/IA-UNISON/material/raw/master/examenes-rapidos/juegos_continua.pdf)
+
+Y como no me podía quedar con las ganas, te recomiendo leer este [poema de Jorge Luís Borges sobre el ajedrez](https://www.poemas-del-alma.com/ajedrez.htm#google_vignette).
