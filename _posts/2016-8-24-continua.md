@@ -39,6 +39,14 @@ los temas vistos.
 
 ### [Actividad 6: Juegos para entretenerse]({% post_url 2015-1-4-continua4 %})
 
+### [Actividad 7: Modelando un MDP]
+
+### [Actividad 8: Jugando al *Blackjack*]
+
+### [Actividad 9: Un modelo metaheurístico propio]
+
+### [Actividad 10: Un problema de CSP]
+
 <!--
 
 ### [Actividad 2: Constuyendo un chechklist ético de IA]({% post_url 2015-1-2-continua2 %})
