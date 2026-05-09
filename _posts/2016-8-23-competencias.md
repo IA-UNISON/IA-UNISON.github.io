@@ -87,9 +87,8 @@ se familiaricen con el nivel de dificultad de las actividades.
 5. [Búsquedas con adversario](https://github.com/IA-UNISON/5-Busquedas-Adversario). 
    **disponible.** Fecha límite: *15 de marzo de 2026*.
 
-6. [Procesos de desición de Markov](https://github.com/IA-UNISON/6-MDPs-y-RL)
-   **en proceso de modificación**. Fecha límite a determinar.
-
+6. [Procesos de desición de Markov](https://github.com/IA-UNISON/6-MDPs)
+   **disponible**. Fecha límite: *23 de mayo de 2025*.
 
 7. [Aprendizaje por refuerzo](https://github.com/IA-UNISON/6-MDPs-y-RL)
    **en proceso de modificación**. Fecha límite a determinar.
