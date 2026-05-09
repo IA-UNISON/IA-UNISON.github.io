@@ -39,7 +39,7 @@ los temas vistos.
 
 ### [Actividad 6: Juegos para entretenerse]({% post_url 2015-1-4-continua4 %})
 
-### [Actividad 7: Modelando un MDP]
+### [Actividad 7: Modelando un MDP]({% post_url 2015-1-4-continua5 %})
 
 ### [Actividad 8: Jugando al *Blackjack*]
 
