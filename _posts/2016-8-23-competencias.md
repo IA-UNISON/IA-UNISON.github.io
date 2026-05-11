@@ -90,8 +90,8 @@ se familiaricen con el nivel de dificultad de las actividades.
 6. [Procesos de desición de Markov](https://github.com/IA-UNISON/6-MDPs)
    **disponible**. Fecha límite: *23 de mayo de 2025*.
 
-7. [Aprendizaje por refuerzo](https://github.com/IA-UNISON/6-MDPs-y-RL)
-   **en proceso de modificación**. Fecha límite a determinar.
+7. [Aprendizaje por refuerzo](https://github.com/IA-UNISON/7-Aprendizaje-refuerzo)
+   **disponible**. Fecha límite: *23 de mayo de 2025*.
 
 8. [Búsquedas locales y métodos metaheurísticos](https://github.com/IA-UNISON/6-MDPs-y-RL)
    **en proceso de modificación**. Fecha límite a determinar.
