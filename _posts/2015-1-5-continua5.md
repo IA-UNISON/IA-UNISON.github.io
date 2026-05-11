@@ -40,7 +40,7 @@ A partir del escenario anterior, define formalmente los elementos del MDP:
 
 1. **Espacio de Estados ($S$):** Define el rango de valores posibles para el inventario al final del día. Considera si el estado puede ser negativo (backlogging).
 2. **Espacio de Acciones ($A$):** Define qué decisiones puede tomar el gerente por la tarde y qué restricciones existen respecto a la capacidad del almacén.
-3. **Probabilidades de Transición ($T$):** Escribe la expresión para calcular $ T(s, a, s') = Pr[s' | s, a] $ utilizando la función de probabilidad de Poisson:
+3. **Probabilidades de Transición ($T$):** Escribe la expresión para calcular $ T(s, a, s') = Pr\[s' | s, a\] $ utilizando la función de probabilidad de Poisson:
 
 $$ f(k; \lambda) = \frac{e^{-\lambda} \lambda^k}{k!} $$
 
