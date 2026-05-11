@@ -2,7 +2,7 @@
 layout: post
 title: 8. Jugando al BlackJack
 description: Actividad de evaluación continua 8
-comments: true
+comments: false
 mathjax: true
 ---
 
