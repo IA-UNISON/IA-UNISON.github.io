@@ -43,9 +43,9 @@ los temas vistos.
 
 ### [Actividad 8: Jugando al *Blackjack*]({% post_url 2015-1-5-continua6 %})
 
-### [Actividad 9: Un modelo metaheurístico propio]
+### [Actividad 9: Un modelo metaheurístico propio] *En desarrollo*
 
-### [Actividad 10: Un problema de CSP]
+### [Actividad 10: Un problema de CSP] *En desarrollo*
 
 <!--
 

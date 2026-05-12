@@ -93,11 +93,11 @@ se familiaricen con el nivel de dificultad de las actividades.
 7. [Aprendizaje por refuerzo](https://github.com/IA-UNISON/7-Aprendizaje-refuerzo)
    **disponible**. Fecha límite: *23 de mayo de 2025*.
 
-8. [Búsquedas locales y métodos metaheurísticos](https://github.com/IA-UNISON/6-MDPs-y-RL)
-   **en proceso de modificación**. Fecha límite a determinar.
+8. [Búsquedas locales y métodos metaheurísticos](https://github.com/IA-UNISON/8-Busquedas-locales)
+   **en proceso de modificación**. Fecha límite: *23 de mayo de 2025*.
 
 9.  [Satisfacción de restricciones](https://github.com/IA-UNISON/6-MDPs-y-RL) 
-    **en proceso de modificación**. Fecha límite a determinar.
+    **en proceso de modificación**. Fecha límite: *23 de mayo de 2025*.
 
 
 <!--
