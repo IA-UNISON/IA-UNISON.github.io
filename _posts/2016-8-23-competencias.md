@@ -96,8 +96,8 @@ se familiaricen con el nivel de dificultad de las actividades.
 8. [Búsquedas locales y métodos metaheurísticos](https://github.com/IA-UNISON/8-Busquedas-locales)
    **disponible**. Fecha límite: *28 de mayo de 2025*.
 
-9.  [Satisfacción de restricciones](https://github.com/IA-UNISON/6-MDPs-y-RL) 
-    **en proceso de modificación**. Fecha límite: *23 de mayo de 2025*.
+9.  [Satisfacción de restricciones](https://github.com/IA-UNISON/9-Satisfaccion-Restricciones) 
+    **disponible**. Fecha límite: *28 de mayo de 2025*.
 
 
 <!--
