@@ -21,8 +21,8 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # contact form settings
-form_url: https://formspree.io/julio.waissman@unison.mx # endpoint URL to receive contact form submissions
-form_email_name: _replyto # value of the "name" attribute in the "email" field
+#form_url: https://formspree.io/julio.waissman@unison.mx # endpoint URL to receive contact form submissions
+#form_email_name: _replyto # value of the "name" attribute in the "email" field
 
 # Disqus Comments
 disqus:
@@ -34,10 +34,7 @@ disqus:
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url:
-googleplus_url:
-instagram_url:
+github_url: https://github.com/IA-UNISON
 linkedin_url:
 pinterest_url:
 slack_url:
