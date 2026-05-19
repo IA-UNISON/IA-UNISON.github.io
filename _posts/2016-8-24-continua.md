@@ -39,13 +39,11 @@ los temas vistos.
 
 ### [Actividad 6: Juegos para entretenerse]({% post_url 2015-1-4-continua4 %})
 
-### [Actividad 7: Modelando un Almacen]({% post_url 2015-1-5-continua5 %})
+### [Actividad 7: Modelando un Almacén]({% post_url 2015-1-5-continua5 %})
 
 ### [Actividad 8: Jugando al *Blackjack*]({% post_url 2015-1-5-continua6 %})
 
-### [Actividad 9: Un modelo metaheurístico propio] *En desarrollo*
-
-### [Actividad 10: Un problema de CSP] *En desarrollo*
+### [Actividad 9: Un problema de CSP]({% post_url 2015-1-6-continua6 %})
 
 <!--
 

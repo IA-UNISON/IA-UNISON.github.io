@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 6. Diversión con CSPs
-description: Actividad de evaluación continua 6
-comments: true
+title: 9. Diversión con CSPs
+description: Actividad de evaluación continua 9
+comments: false
 mathjax: true
 ---
 
